@@ -1,0 +1,9 @@
+title: Learning 3D Generative Models
+email: daniel_ritchie@brown.edu
+description: Website for the Workshop on Learning 3D Generative Models at CVPR 2020
+  ---
+baseurl: "" # the subpath of your site, e.g. /blog
+
+# Build settings
+markdown: kramdown
+include: ['_pages']
