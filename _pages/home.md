@@ -22,12 +22,12 @@ acknowledgements: ""
 
 <hr>
 
-<div class="row" id="intro">
+<!-- <div class="row" id="intro">
   <div class="col-md-12">
     <img src="{{ "/static/img/splash.png" | prepend:site.baseurl }}">
     <p> Image credit: [1, 2, 7, 12, 6, 4, 5]</p>
   </div>
-</div>
+</div> -->
 
 <br>
 <div class="row" id="cfp">
@@ -73,7 +73,7 @@ acknowledgements: ""
       Reviewing will be single blind.
       Accepted extended abstracts will be made publicly available as non-archival reports, allowing future submissions to archival conferences or journals.
       We also welcome already published papers that are within the scope of the workshop (without re-formatting), including papers from the main CVPR conference.
-      Please submit your paper to the following address by the deadline: <span style="color:#1a1aff;font-weight:400;"><a href="mailto:3dscenegeneration@gmail.com">3dscenegeneration@gmail.com</a></span>
+      Please submit your paper to the following address by the deadline: <span style="color:#1a1aff;font-weight:400;"><a href="mailto:learn3dgen@gmail.com">learn3dgen@gmail.com</a></span>
       Please mention in your email if your submission has already been accepted for publication (and the name of the conference).
     </p>
   </div>
@@ -194,7 +194,8 @@ acknowledgements: ""
 
 <span style="color:#e74c3c;font-weight:400;">TBD</span>
 
-<!-- <br>
+<!--
+<br>
 <div class="row">
   <div class="col-md-12">
     <span style="font-weight:200;">DeepSDF: Learning Continuous Signed Distance Functions for Shape Representation</span><br>
@@ -202,204 +203,7 @@ acknowledgements: ""
     <a href="https://drive.google.com/file/d/1oYUQOicJ-gIcLaQUnrE23azPDMW5VphP/view?usp=sharing">Paper</a> | Poster #24 AM (morning)
   </div>
 </div>
-
-<br>
-<div class="row">
-  <div class="col-md-12">
-    <span style="font-weight:200;">DeepPerimeter: Indoor Boundary Estimation from Posed Monocular Sequences</span><br>
-    Ameya Phalak, Zhao Chen, Darvin Yi, Khushi Gupta, Vijay Badrinarayanan, Andrew Rabinovich<br>
-    <a href="https://drive.google.com/file/d/1fGI5oRWTg2Bu5the1rNONbrS9BQX00bA/view?usp=sharing">Paper</a> | Poster #25 AM (morning)
-  </div>
-</div>
-
-<br>
-<div class="row">
-  <div class="col-md-12">
-    <span style="font-weight:200;">Learning a Generative Model for Multi-Step Human-Object Interactions from
-      Videos</span><br>
-    He Wang, Sören Pirk, Ersin Yumer, Vladimir G. Kim, Ozan Sener, Srinath Sridhar, Leonidas J. Guibas<br>
-    <a href="https://drive.google.com/file/d/1fGI5oRWTg2Bu5the1rNONbrS9BQX00bA/view?usp=sharing">Paper</a> | Poster #26 AM (morning)
-  </div>
-</div>
-
-<br>
-<div class="row">
-  <div class="col-md-12">
-    <span style="font-weight:200;">Scenic: A Language for Scenario Specification and Scene Generation</span><br>
-    Daniel J. Fremont, Xiangyu Yue, Tommaso Dreossi, Shromona Ghosh, Alberto L. Sangiovanni-Vincentelli, Sanjit A.
-    Seshia<br>
-    <a href="https://drive.google.com/file/d/1pNx5pVv9lezequbXwuT2A0ZNTDblWzjd/view?usp=sharing">Paper</a> | Poster #27 AM (morning)
-  </div>
-</div>
-
-<br>
-<div class="row">
-  <div class="col-md-12">
-    <span style="font-weight:200;">HorizonNet: Learning Room Layout with 1D Representation and Pano Stretch Data
-      Augmentation</span><br>
-    Cheng Sun, Chi-Wei Hsiao, Min Sun, Hwann-Tzong Chen<br>
-    <a href="https://drive.google.com/file/d/1NmylUpsThqBxK6MmgVXgsovwmFARynuX/view?usp=sharing">Paper</a> | Poster #28 AM (morning)
-  </div>
-</div>
-
-<br>
-<div class="row">
-  <div class="col-md-12">
-    <span style="font-weight:200;">Towards Training Person Detectors from Synthetic RGB-D Data</span><br>
-    Timm Linder, Michael Johan Hernandez Leon, Narunas Vaskevicius, Kai O. Arras<br>
-    <a href="https://drive.google.com/file/d/1OnufiJsY5-H0jjaaCDE99VMgDWg1RH1K/view?usp=sharing">Paper</a> | Poster #29 AM (morning)
-  </div>
-</div>
-
-<br>
-<div class="row">
-  <div class="col-md-12">
-    <span style="font-weight:200;">HomeNet: Layout Generation of Indoor Scenes from Panoramic Images Using Pyramid
-      Pooling</span><br>
-    Krisha Mehta, Yash Kotadia<br>
-    <a href="https://drive.google.com/file/d/1KYcuWqcSxQ_PeK5FOnjS40cKc9wALjak/view?usp=sharing">Paper</a>
-  </div>
-</div>
-
-<br>
-<div class="row">
-  <div class="col-md-12">
-    <span style="font-weight:200;">Learning to Encode Spatial Relations from Natural Language</span><br>
-    Tiago Ramalho, Tomas Kocisky, Frederic Besse, S. M. Ali Eslami, Gabor Melis, Fabio Viola, Phil Blunsom, Karl Moritz
-    Hermann<br>
-    <a href="https://drive.google.com/file/d/1bSFiCkqgNM438uNOcdBHrMuM-TtpNpfo/view?usp=sharing">Paper</a> | Poster #30 AM (morning)
-  </div>
-</div>
-
-<br>
-<div class="row">
-  <div class="col-md-12">
-    <span style="font-weight:200;">Putting Humans in a Scene: Learning Affordance in 3D Indoor Environments</span><br>
-    Xueting Li, Sifei Liu, Kihwan Kim, Xiaolong Wang, Ming-Hsuan Yang, and Jan Kautz<br>
-    <a href="https://drive.google.com/file/d/11qXyTl2mgo07pWLsdHQRLLs3J9S2C7MS/view?usp=sharing">Paper</a> | Poster #31 AM (morning)
-  </div>
-</div>
-
-<br>
-<div class="row">
-  <div class="col-md-12">
-    <span style="font-weight:200;">The RobotriX: A Large-scale Dataset of Embodied Robots in Virtual Reality</span><br>
-    Alberto Garcia-Garcia, Pablo Martinez-Gonzalez, Sergiu Oprea, John A. Castro-Vargas, Sergio Orts-Escolano, Alvaro
-    Jover-Alvarez, Jose Garcia-Rodriguez<br>
-    <a href="https://drive.google.com/file/d/1ivUa47Y1_xqByQepUz_K3K7dXeQkACqU/view?usp=sharing">Paper</a> | Poster #32 AM (morning)
-  </div>
-</div>
-
-<br>
-<div class="row">
-  <div class="col-md-12">
-    <span style="font-weight:200;">Revealing Scenes by Inverting Structure from Motion Reconstructions</span><br>
-    Francesco Pittaluga, Sanjeev J. Koppal, Sing Bing Kang, Sudipta N. Sinha<br>
-    <a href="https://drive.google.com/file/d/1iEbA-7-plRImJP4-L9rQPld0yCnO5OdW/view?usp=sharing">Paper</a> | Poster #33 AM (morning)
-  </div>
-</div>
-
-<br>
-<div class="row">
-  <div class="col-md-12">
-    <span style="font-weight:200;">Single-Image Piece-wise Planar 3D Reconstruction via Associative Embedding</span><br>
-    Zehao Yu, Jia Zheng, Dongze Lian, Zihan Zhou, Shenghua Gao<br>
-    <a href="https://drive.google.com/file/d/1ojxIpBupU8cw0IOlE1G9Ky5GpMTU3Hrc/view?usp=sharing">Paper</a> | Poster #24 PM (afternoon)
-  </div>
-</div>
-
-<br>
-<div class="row">
-  <div class="col-md-12">
-    <span style="font-weight:200;">PlaneRCNN: 3D Plane Detection and Reconstruction from a Single Image</span><br>
-    Chen Liu, Kihwan Kim, Jinwei Gu, Yasutaka Furukawa, Jan Kautz<br>
-    <a href="https://drive.google.com/file/d/1LRwKQjADtWbNpNSNWvJk7iqQzftloGyp/view?usp=sharing">Paper</a> | Poster #25 PM (afternoon)
-  </div>
-</div>
-
-<br>
-<div class="row">
-  <div class="col-md-12">
-    <span style="font-weight:200;">Hierarchy Denoising Recursive Autoencoders for 3D Scene Layout</span><br>
-    Yifei Shi, Angel Xuan Chang, Zhelun Wu, Manolis Savva, Kai Xu<br>
-    <a href="https://drive.google.com/file/d/1tbQCCOyACVGNvPVdcqHr08WXWTxU26b8/view?usp=sharing">Paper</a>
-  </div>
-</div>
-
-<br>
-<div class="row">
-  <div class="col-md-12">
-    <span style="font-weight:200;">Shape2Motion: Joint Analysis of Motion Parts and Attributes from 3D Shapes</span><br>
-    Xiaogang Wang, Bin Zhou, Yahao Shi, Xiaowu Chen, Qinping Zhao, Kai Xu<br>
-    <a href="https://drive.google.com/file/d/1Xto0tZlYx4jAxeCVuUlLycWErysCJiTc/view?usp=sharing">Paper</a> | Poster #26 PM (afternoon)
-  </div>
-</div>
-
-<br>
-<div class="row">
-  <div class="col-md-12">
-    <span style="font-weight:200;">Scene Memory Transformer for Embodied Agents in Long-Horizon Tasks</span><br>
-    Kuan Fang, Alexander Toshev, Li Fei-Fei, Silvio Savarese<br>
-    <a href="https://drive.google.com/file/d/1S7wO9pOdaS7W_v4nm-DSjKbRmU3LX0qk/view?usp=sharing">Paper</a> | Poster #27 PM (afternoon)
-  </div>
-</div>
-
-<br>
-<div class="row">
-  <div class="col-md-12">
-    <span style="font-weight:200;">PartNet: A Large-scale Benchmark for Fine-grained and Hierarchical Part-level 3D
-      Object Understanding</span><br>
-    Kaichun Mo, Shilin Zhu, Angel X. Chang, Li Yi, Subarna Tripathi, Leonidas J. Guibas, Hao Su<br>
-    <a href="https://drive.google.com/file/d/16Z8UKKGFVjrA9V4N2MLbGBZVKR1KAWEj/view?usp=sharing">Paper</a> | Poster #28 PM (afternoon)
-  </div>
-</div>
-
-<br>
-<div class="row">
-  <div class="col-md-12">
-    <span style="font-weight:200;">Learning Implicit Fields for Generative Shape Modeling</span><br>
-    Zhiqin Chen, Hao Zhang<br>
-    <a href="https://drive.google.com/file/d/1ufm_7J6pbVMxHTdrv__bhNK1kL5obSbc/view?usp=sharing">Paper</a> | Poster #29 PM (afternoon)
-  </div>
-</div>
-
-<br>
-<div class="row">
-  <div class="col-md-12">
-    <span style="font-weight:200;">Learning 3D Human Dynamics from Video</span><br>
-    Angjoo Kanazawa, Jason Y. Zhang, Panna Felsen, Jitendra Malik<br>
-    <a href="https://arxiv.org/abs/1812.01601">Paper</a> | Poster #30 PM (afternoon)
-  </div>
-</div>
-
-<br>
-<div class="row">
-  <div class="col-md-12">
-    <span style="font-weight:200;">PCN: Point Completion Network</span><br>
-    Wentao Yuan, Tejas Khot, David Held, Christoph Mertz, Martial Hebert<br>
-    <a href="https://drive.google.com/file/d/1rrS3bB4QnNs4GX8ZNHHX1VkoYCaOz5G0/view?usp=sharing">Paper</a> | Poster #31 PM (afternoon)
-  </div>
-</div>
-
-<br>
-<div class="row">
-  <div class="col-md-12">
-    <span style="font-weight:200;">TextureNet: Consistent Local Parametrizations for Learning from High-Resolution
-      Signals on Meshes </span><br>
-    Jingwei Huang, Haotian Zhang, Li Yi, Thomas Funkhouser, Matthias Niessner, Leonidas Guibas<br>
-    <a href="https://arxiv.org/abs/1812.00020">Paper</a> | Poster #32 PM (afternoon)
-  </div>
-</div>
-
-<br>
-<div class="row">
-  <div class="col-md-12">
-    <span style="font-weight:200;">Fast and Flexible Indoor Scene Synthesis via Deep Convolutional Generative
-      Models</span><br>
-    Daniel Ritchie, Kai Wang, Yu-an Lin<br>
-    <a href="https://arxiv.org/abs/1811.12463">Paper</a> | Poster #33 PM (afternoon)
-  </div>
-</div> -->
+ -->
 
 <br>
 <div class="row">
@@ -408,7 +212,7 @@ acknowledgements: ""
   </div>
 </div><br>
 
-<div class="row">
+<!-- <div class="row">
   <div class="col-md-12">
     <a href="http://vladlen.info/"><img class="people-pic" style="float:left;margin-right:50px;" src="{{ "/static/img/people/vladlen.png" | prepend:site.baseurl }}"></a>
     <p>
@@ -478,9 +282,9 @@ acknowledgements: ""
       <b><a href="https://jiajunwu.com/">Jiajun Wu</a></b> is a fifth-year PhD student at MIT, advised by Bill Freeman and Josh Tenenbaum. He received his undergraduate degree from Tsinghua University, working with Zhuowen Tu. He has also spent time at research labs of Microsoft, Facebook, and Baidu. His research has been supported by fellowships from Facebook, Nvidia, Samsung, Baidu, and Adobe. He studies machine perception, reasoning, and its interaction with the physical world, drawing inspiration from human cognition.
     </p>
   </div>
-</div><br>
+</div><br> -->
 
-<div class="row">
+<!-- <div class="row">
   <div class="col-md-12">
     <b>Industry Participants</b>
     <p>The workshop also features presentations by representatives of the following companies:</p>
@@ -499,7 +303,7 @@ acknowledgements: ""
   <div class="col-md-3">
     <a href="https://zillow.com/"><img src="/static/img/zillow.png" /></a>
   </div>
-</div><br>
+</div><br> -->
 
 
 <div class="row">
@@ -571,16 +375,13 @@ acknowledgements: ""
 
 <br>
 
+<!--
+
 <div class="row">
   <div class="col-xs-12">
     <h2>References</h2>
   </div>
 </div>
-<!-- <div class="row">
-  <div class="col-md-12">
-  TBD
-  </div>
-</div> -->
 
 {:.paper}
 <span>[1] Fast and Flexible Indoor Scene Synthesis via Deep Convolutional Generative Models</span>{:.papertitle}  
@@ -660,5 +461,5 @@ acknowledgements: ""
 {:.paper}
 <span>[16] SceneNN: A Scene Meshes Dataset with aNNotations</span>{:.papertitle}  
 <span>B.S. Hua, Q.H. Pham, D.T. Nguyen, M.K. Tran, L.F. Yu, and S.K. Yeung</span>{:.authors}  
-<span>International Conference on 3D Vision (3DV), 2016</span>{:.journal}  
+<span>International Conference on 3D Vision (3DV), 2016</span>{:.journal}   -->
 
