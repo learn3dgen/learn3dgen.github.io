@@ -320,7 +320,7 @@ acknowledgements: ""
     </a>
     <div class="people-name">
       <a href="https://angelxuanchang.github.io/">Angel X. Chang</a>
-      <h6>Eloquent Labs, Simon Fraser University</h6>
+      <h6>Simon Fraser University</h6>
     </div>
   </div>
 
@@ -350,9 +350,88 @@ acknowledgements: ""
     </a>
     <div class="people-name">
       <a href="http://msavva.github.io/">Manolis Savva</a>
-      <h6>Facebook AI Research, Simon Fraser University</h6>
+      <h6>Simon Fraser University</h6>
     </div>
   </div>
+
+</div>
+
+<div class="row">
+
+  <div class="col-xs-2">
+    <a href="https://angelxuanchang.github.io/">
+      <img class="people-pic" src="{{ "/static/img/people/florian.png" | prepend:site.baseurl }}">
+    </a>
+    <div class="people-name">
+      <a href="https://fgolemo.github.io/">Florian Golemo</a>
+      <h6>MILA, Element AI</h6>
+    </div>
+  </div>
+
+  <div class="col-xs-2">
+    <a href="https://dritchie.github.io/">
+      <img class="people-pic" src="{{ "/static/img/people/sai.png" | prepend:site.baseurl }}">
+    </a>
+    <div class="people-name">
+      <a href="https://mila.quebec/en/person/sai-rajeshwar/">Sai Rajeswar</a>
+      <h6>MILA</h6>
+    </div>
+  </div>
+
+  <div class="col-xs-2">
+    <a href="https://www.cs.utexas.edu/~huangqx/">
+      <img class="people-pic" src="{{ "/static/img/people/david.jpeg" | prepend:site.baseurl }}">
+    </a>
+    <div class="people-name">
+      <a href="http://www.david-vazquez.com/">David Vazquez</a>
+      <h6>Element AI</h6>
+    </div>
+  </div>
+
+  <div class="col-xs-2">
+    <a href="http://msavva.github.io/">
+      <img class="people-pic" src="{{ "/static/img/people/pedro.png" | prepend:site.baseurl }}">
+    </a>
+    <div class="people-name">
+      <a href="http://www.pedro.opinheiro.com/">Pedro O. Pinheiro</a>
+      <h6>Element AI</h6>
+    </div>
+  </div>
+  
+</div>
+
+<div class="row">
+
+  <div class="col-xs-2">
+    <a href="https://angelxuanchang.github.io/">
+      <img class="people-pic" src="{{ "/static/img/people/sid.png" | prepend:site.baseurl }}">
+    </a>
+    <div class="people-name">
+      <a href="https://www.cse.iitb.ac.in/~sidch/">Siddhartha Chaudhuri</a>
+      <h6>Adobe Research, IIT Bombay</h6>
+    </div>
+  </div>
+
+  <div class="col-xs-2">
+    <a href="https://dritchie.github.io/">
+      <img class="people-pic" src="{{ "/static/img/people/kevin.png" | prepend:site.baseurl }}">
+    </a>
+    <div class="people-name">
+      <a href="https://kevinkaixu.net/">Kai (Kevin) Xu</a>
+      <h6>NUDT</h6>
+    </div>
+  </div>
+
+  <div class="col-xs-2">
+    <a href="https://www.cs.utexas.edu/~huangqx/">
+      <img class="people-pic" src="{{ "/static/img/people/richard.png" | prepend:site.baseurl }}">
+    </a>
+    <div class="people-name">
+      <a href="https://www.cs.sfu.ca/~haoz/">Hao (Richard) Zhang</a>
+      <h6>Simon Fraser University</h6>
+    </div>
+  </div>
+  
 </div>
 
 <hr>
