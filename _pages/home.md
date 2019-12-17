@@ -359,7 +359,7 @@ acknowledgements: ""
 <div class="row">
 
   <div class="col-xs-2">
-    <a href="https://angelxuanchang.github.io/">
+    <a href="https://fgolemo.github.io/">
       <img class="people-pic" src="{{ "/static/img/people/florian.png" | prepend:site.baseurl }}">
     </a>
     <div class="people-name">
@@ -369,7 +369,7 @@ acknowledgements: ""
   </div>
 
   <div class="col-xs-2">
-    <a href="https://dritchie.github.io/">
+    <a href="https://mila.quebec/en/person/sai-rajeshwar/">
       <img class="people-pic" src="{{ "/static/img/people/sai.png" | prepend:site.baseurl }}">
     </a>
     <div class="people-name">
@@ -379,7 +379,7 @@ acknowledgements: ""
   </div>
 
   <div class="col-xs-2">
-    <a href="https://www.cs.utexas.edu/~huangqx/">
+    <a href="http://www.david-vazquez.com/">
       <img class="people-pic" src="{{ "/static/img/people/david.jpeg" | prepend:site.baseurl }}">
     </a>
     <div class="people-name">
@@ -389,7 +389,7 @@ acknowledgements: ""
   </div>
 
   <div class="col-xs-2">
-    <a href="http://msavva.github.io/">
+    <a href="http://www.pedro.opinheiro.com/">
       <img class="people-pic" src="{{ "/static/img/people/pedro.png" | prepend:site.baseurl }}">
     </a>
     <div class="people-name">
@@ -403,7 +403,7 @@ acknowledgements: ""
 <div class="row">
 
   <div class="col-xs-2">
-    <a href="https://angelxuanchang.github.io/">
+    <a href="https://www.cse.iitb.ac.in/~sidch/">
       <img class="people-pic" src="{{ "/static/img/people/sid.png" | prepend:site.baseurl }}">
     </a>
     <div class="people-name">
@@ -413,7 +413,7 @@ acknowledgements: ""
   </div>
 
   <div class="col-xs-2">
-    <a href="https://dritchie.github.io/">
+    <a href="https://kevinkaixu.net/">
       <img class="people-pic" src="{{ "/static/img/people/kevin.png" | prepend:site.baseurl }}">
     </a>
     <div class="people-name">
@@ -423,7 +423,7 @@ acknowledgements: ""
   </div>
 
   <div class="col-xs-2">
-    <a href="https://www.cs.utexas.edu/~huangqx/">
+    <a href="https://www.cs.sfu.ca/~haoz/">
       <img class="people-pic" src="{{ "/static/img/people/richard.png" | prepend:site.baseurl }}">
     </a>
     <div class="people-name">
