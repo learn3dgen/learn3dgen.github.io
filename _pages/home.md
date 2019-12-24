@@ -11,18 +11,19 @@ acknowledgements: ""
 ---
 
 <br>
-<div class="row">
-  <div class="col-xs-12">
+<div class="row header-row">
+  <div class="col-xs-12 header-img">  
     <center><h1>Learning 3D Generative Models</h1></center>
     <center><h2>CVPR 2020 Workshop, Seattle, WA</h2></center>
-    <center><span style="color:#e74c3c;font-weight:400;">Time and Location TBD</span></center>
+    <center><span style="font-weight:400;">Time and Location TBD</span></center>
+    <!--<center><span style="color:#e74c3c;font-weight:400;">Time and Location TBD</span></center>-->
     <br/>
   </div>
 </div>
 
 <hr>
 
-<!-- <div class="row" id="intro">
+<!-- <div class="row" id="">
   <div class="col-md-12">
     <img src="{{ "/static/img/splash.png" | prepend:site.baseurl }}">
     <p> Image credit: [1, 2, 7, 12, 6, 4, 5]</p>
@@ -30,7 +31,7 @@ acknowledgements: ""
 </div> -->
 
 <br>
-<div class="row" id="cfp">
+<div class="row" id="intro">
   <div class="col-xs-12">
     <h2>Introduction</h2>
   </div>
@@ -49,7 +50,7 @@ acknowledgements: ""
   </div>
 </div> <br>   
 
-<div class="row">
+<div class="row" id="cfp">
   <div class="col-xs-12">
     <h2>Call for Papers</h2>
   </div>
@@ -73,13 +74,13 @@ acknowledgements: ""
       Reviewing will be single blind.
       Accepted extended abstracts will be made publicly available as non-archival reports, allowing future submissions to archival conferences or journals.
       We also welcome already published papers that are within the scope of the workshop (without re-formatting), including papers from the main CVPR conference.
-      Please submit your paper to the following address by the deadline: <span style="color:#1a1aff;font-weight:400;"><a href="mailto:learn3dgen@gmail.com">learn3dgen@gmail.com</a></span>
-      Please mention in your email if your submission has already been accepted for publication (and the name of the conference).
+      The submissions will be handled by the CMT paper management system (available shortly). Please mention in your submission if your submission has already been accepted for publication (and the name of the conference).
+      <!--Please submit your paper to the following address by the deadline: <span style="color:#1a1aff;font-weight:400;"><a href="mailto:learn3dgen@gmail.com">learn3dgen@gmail.com</a></span>-->
     </p>
   </div>
 </div><br>
 
-<div class="row" id="schedule">
+<div class="row" id="dates">
   <div class="col-xs-12">
     <h2>Important Dates</h2>
   </div>
@@ -91,19 +92,19 @@ acknowledgements: ""
       <tbody>
         <tr>
           <td>Paper Submission Deadline</td>
-          <td>May 17 2019</td>
+          <td>May 17 2020</td>
         </tr>
         <tr>
           <td>Notification to Authors</td>
-          <td>May 31 2019</td>
+          <td>May 31 2020</td>
         </tr>
         <tr>
           <td>Camera-Ready Deadline</td>
-          <td>June 7 2019</td>
+          <td>June 7 2020</td>
         </tr>
         <tr>
           <td>Workshop Date</td>
-          <td>June 16 2019</td>
+          <td>TBD, one of June 14,15,19 2020</td>
         </tr>
       </tbody>
     </table>
@@ -111,7 +112,7 @@ acknowledgements: ""
 </div><br>
 
 
-<div class="row" id="accepted">
+<div class="row" id="schedule">
   <div class="col-xs-12">
     <h2>Schedule</h2>
   </div>
@@ -186,7 +187,7 @@ acknowledgements: ""
 </div>
 
 <br>
-<div class="row">
+<div class="row" id="accepted">
   <div class="col-md-12">
     <h2>Accepted Papers</h2>
   </div>
@@ -206,83 +207,148 @@ acknowledgements: ""
  -->
 
 <br>
-<div class="row">
+<div class="row" id="speakers">
   <div class="col-xs-12">
     <h2>Invited Speakers</h2>
   </div>
 </div><br>
 
-<!-- <div class="row">
-  <div class="col-md-12">
-    <a href="http://vladlen.info/"><img class="people-pic" style="float:left;margin-right:50px;" src="{{ "/static/img/people/vladlen.png" | prepend:site.baseurl }}"></a>
-    <p>
-      <b><a href="http://vladlen.info/">Vladlen Koltun</a></b> is a Senior Principal Researcher and the director of the Intelligent Systems Lab at Intel. The lab is devoted to high-impact basic research on intelligent systems. Previously, he has been a Senior Research Scientist at Adobe Research and an Assistant Professor at Stanford where his theoretical research was recognized with the National Science Foundation (NSF) CAREER Award (2006) and the Sloan Research Fellowship (2007).
-    </p>
-  </div>
-</div><br>
 
+
+<!-- 70 -->
 <div class="row">
   <div class="col-md-12">
-    <a href="http://www.cs.utexas.edu/users/grauman/"><img class="people-pic" style="float:left;margin-right:50px;" src="{{ "/static/img/people/grauman.png" | prepend:site.baseurl }}"></a>
+    <a href="http://www.cs.utexas.edu/users/grauman/"><img class="people-pic" style="float:left;margin-right:50px;" src="{{ "/static/img/speakers/grauman.jpg" | prepend:site.baseurl }}"></a>
     <p>
       <b><a href="http://www.cs.utexas.edu/users/grauman/">Kristen Grauman</a></b> is a Professor in the Department of Computer Science at the University of Texas at Austin and a Research Scientist in Facebook AI Research (FAIR).  Her research in computer vision and machine learning focuses on visual recognition and search.  Before joining UT-Austin in 2007, she received her Ph.D. at MIT.  She is an Alfred P. Sloan Research Fellow and Microsoft Research New Faculty Fellow, a recipient of NSF CAREER and ONR Young Investigator awards, the PAMI Young Researcher Award in 2013, the 2013 Computers and Thought Award from the International Joint Conference on Artificial Intelligence (IJCAI), the Presidential Early Career Award for Scientists and Engineers (PECASE) in 2013, and the Helmholtz Prize in 2017. 
     </p>
   </div>
 </div><br>
 
+<!-- 60 -->
 <div class="row">
   <div class="col-md-12">
-    <a href="https://demuc.de/"><img class="people-pic" style="float:left;margin-right:50px;" src="{{ "/static/img/people/johannes.png" | prepend:site.baseurl }}"></a>
+    <a href="http://vladlen.info/"><img class="people-pic" style="float:left;margin-right:50px;" src="{{ "/static/img/speakers/vladlen.png" | prepend:site.baseurl }}"></a>
     <p>
-      <b><a href="https://demuc.de/">Johannes L. Schönberger</a></b> is a Senior Scientist at the Microsoft Mixed Reality and AI lab in Zürich. He obtained his PhD in Computer Science in the Computer Vision and Geometry Group at ETH Zürich, where he was advised by Marc Pollefeys and co-advised by Jan-Michael Frahm. He received a BSc from TU Munich and an MSc from UNC Chapel Hill. In addition, he also spent time at Microsoft Research, Google, and the German Aerospace Center. His main research interests lie in robust image-based 3D modeling. More broadly, he is interested in computer vision, geometry, structure-from-motion, (multi-view) stereo, localization, optimization, machine learning, and image processing. He developed the open-source software COLMAP - an end-to-end image-based 3D reconstruction software, which achieves state-of-the-art results on recent reconstruction benchmarks.
+      <b><a href="http://vladlen.info/">Vladlen Koltun</a></b> is a Senior Principal Researcher and the director of the Intelligent Systems Lab at Intel. The lab is devoted to high-impact basic research on intelligent systems. Previously, he has been a Senior Research Scientist at Adobe Research and an Assistant Professor at Stanford where his theoretical research was recognized with the National Science Foundation (NSF) CAREER Award (2006) and the Sloan Research Fellowship (2007).
     </p>
   </div>
 </div><br>
 
+<!-- 47 -->
 <div class="row">
   <div class="col-md-12">
-    <a href="https://cs.brown.edu/people/epavlick/index.html"><img class="people-pic" style="float:left;margin-right:50px;" src="{{ "/static/img/people/ellie.png" | prepend:site.baseurl }}"></a>
+    <a href="https://www.cs.utoronto.ca/~fidler/"><img class="people-pic" style="float:left;margin-right:50px;" src="{{ "/static/img/speakers/sanja.jpg" | prepend:site.baseurl }}"></a>
     <p>
-      <b><a href="https://cs.brown.edu/people/epavlick/index.html">Ellie Pavlick</a></b> is an Assistant Professor of Computer Science at Brown University, and an academic partner with Google AI. She received her PhD in Computer Science from the University of Pennsylvania. She is interested in building better computational models of natural language semantics and pragmatics: how does language work, and how can we get computers to understand it the way humans do?
+      <b><a href="https://www.cs.utoronto.ca/~fidler/">Sanja Fidler</a></b> is an Assistant Professor at University of Toronto, and a Director of AI at NVIDIA, leading a research lab in Toronto. Prior coming to Toronto, in 2012/2013, she was a Research Assistant Professor at Toyota Technological Institute at Chicago, an academic institute located in the campus of University of Chicago. She did her postdoc with Prof. Sven Dickinson at University of Toronto in 2011/2012. She finished her PhD in 2010 at University of Ljubljana in Slovenia in the group of Prof. Ales Leonardis. In 2010, she was visiting Prof. Trevor Darrell's group at UC Berkeley and ICSI. 
     </p>
   </div>
 </div><br>
 
+<!-- 36 -->
 <div class="row">
   <div class="col-md-12">
-    <a href="https://www.cs.purdue.edu/homes/aliaga/"><img class="people-pic" style="float:left;margin-right:50px;" src="{{ "/static/img/people/aliaga.png" | prepend:site.baseurl }}"></a>
+    <a href="https://www.cs.purdue.edu/homes/aliaga/"><img class="people-pic" style="float:left;margin-right:50px;" src="{{ "/static/img/speakers/aliaga.png" | prepend:site.baseurl }}"></a>
     <p>
       <b><a href="https://www.cs.purdue.edu/homes/aliaga/">Daniel Aliaga</a></b> does research primarily in the area of 3D computer graphics but overlaps with computer vision and visualization while also having strong multi-disciplinary collaborations outside of computer science. His research activities are divided into three groups: a) his pioneering work in the multi-disciplinary area of inverse modeling and design; b) his first-of-its-kind work in codifying information into images and surfaces, and c) his compelling work in a visual computing framework including high-quality 3D acquisition methods. Dr. Aliaga’s inverse modeling and design is particularly focused at digital city planning applications that provide innovative “what-if” design tools enabling urban stake holders from cities worldwide to automatically integrate, process, analyze, and visualize the complex interdependencies between the urban form, function, and the natural environment.
     </p>
   </div>
 </div><br>
 
+<!-- 24 -->
 <div class="row">
   <div class="col-md-12">
-    <a href="https://www.cse.iitb.ac.in/~sidch/"><img class="people-pic" style="float:left;margin-right:50px;" src="{{ "/static/img/people/sid.png" | prepend:site.baseurl }}"></a>
+    <a href="https://jiajunwu.com/"><img class="people-pic" style="float:left;margin-right:50px;" src="{{ "/static/img/speakers/jiajun.png" | prepend:site.baseurl }}"></a>
+    <p>
+      <b><a href="https://jiajunwu.com/">Jiajun Wu</a></b> is a fifth-year PhD student at MIT, advised by Bill Freeman and Josh Tenenbaum. He received his undergraduate degree from Tsinghua University, working with Zhuowen Tu. He has also spent time at research labs of Microsoft, Facebook, and Baidu. His research has been supported by fellowships from Facebook, Nvidia, Samsung, Baidu, and Adobe. He studies machine perception, reasoning, and its interaction with the physical world, drawing inspiration from human cognition.
+    </p>
+  </div>
+</div><br>
+
+
+<!-- 16 -->
+<div class="row">
+  <div class="col-md-12">
+    <a href=""><img class="people-pic" style="float:left;margin-right:50px;" src="{{ "/static/img/speakers/georgia.jpg" | prepend:site.baseurl }}"></a>
+    <p>
+      <b><a href="">Georgia Gkioxari</a></b> is a research scientist at FAIR. She received her PhD from UC Berkeley, where she was advised by Jitendra Malik. She did her bachelors in ECE at NTUA in Athens, Greece, where she worked with Petros Maragos. In the past, she has spent time at Google Brain and Google Research, where she worked with Navdeep Jaitly and Alexander Toshev.
+    </p>
+  </div>
+</div><br>
+
+
+<!-- 16 -->
+<div class="row">
+  <div class="col-md-12">
+    <a href="https://demuc.de/"><img class="people-pic" style="float:left;margin-right:50px;" src="{{ "/static/img/speakers/johannes.jpg" | prepend:site.baseurl }}"></a>
+    <p>
+      <b><a href="https://demuc.de/">Johannes L. Schönberger</a></b> is a Senior Scientist at the Microsoft Mixed Reality and AI lab in Zürich. He obtained his PhD in Computer Science in the Computer Vision and Geometry Group at ETH Zürich, where he was advised by Marc Pollefeys and co-advised by Jan-Michael Frahm. He received a BSc from TU Munich and an MSc from UNC Chapel Hill. In addition, he also spent time at Microsoft Research, Google, and the German Aerospace Center. His main research interests lie in robust image-based 3D modeling. More broadly, he is interested in computer vision, geometry, structure-from-motion, (multi-view) stereo, localization, optimization, machine learning, and image processing. He developed the open-source software COLMAP - an end-to-end image-based 3D reconstruction software, which achieves state-of-the-art results on recent reconstruction benchmarks.
+    </p>
+  </div>
+</div><br>
+
+
+<!-- 15 -->
+<div class="row">
+  <div class="col-md-12">
+    <a href="https://www.cse.iitb.ac.in/~sidch/"><img class="people-pic" style="float:left;margin-right:50px;" src="{{ "/static/img/speakers/sid.png" | prepend:site.baseurl }}"></a>
     <p>
       <b><a href="https://www.cse.iitb.ac.in/~sidch/">Siddhartha Chaudhuri</a></b> is a Senior Research Scientist at Adobe Research, and Assistant Professor (on leave) of Computer Science and Engineering at IIT Bombay. His research focuses on richer tools for designing three-dimensional objects, particularly by novice and casual users, and on related problems in 3D shape understanding, synthesis and reconstruction. He received his PhD from Stanford University, followed by a postdoc at Princeton and a year teaching at Cornell. Apart from basic research, he is also the original author of the commercial 3D modeling package Adobe Fuse.
     </p>
   </div>
 </div><br>
 
+<!-- 13 -->
 <div class="row">
   <div class="col-md-12">
-    <a href="http://graphics.stanford.edu/~adai/"><img class="people-pic" style="float:left;margin-right:50px;" src="{{ "/static/img/people/angela.png" | prepend:site.baseurl }}"></a>
+    <a href="http://graphics.stanford.edu/~adai/"><img class="people-pic" style="float:left;margin-right:50px;" src="{{ "/static/img/speakers/angela.jpg" | prepend:site.baseurl }}"></a>
     <p>
       <b><a href="http://graphics.stanford.edu/~adai/">Angela Dai</a></b> is a postdoctoral researcher at the Technical University of Munich.  She received her Ph.D. in Computer Science at Stanford University advised by Pat Hanrahan. Her research focuses on 3D reconstruction and understanding with commodity sensors. She received her Masters degree from Stanford University and her Bachelors degree from Princeton University. She is a recipient of a Stanford Graduate Fellowship.
     </p>
   </div>
 </div><br>
 
+<!-- 13 -->
 <div class="row">
   <div class="col-md-12">
-    <a href="https://jiajunwu.com/"><img class="people-pic" style="float:left;margin-right:50px;" src="{{ "/static/img/people/jiajun.png" | prepend:site.baseurl }}"></a>
+    <a href="https://cs.brown.edu/people/epavlick/index.html"><img class="people-pic" style="float:left;margin-right:50px;" src="{{ "/static/img/speakers/ellie.gif" | prepend:site.baseurl }}"></a>
     <p>
-      <b><a href="https://jiajunwu.com/">Jiajun Wu</a></b> is a fifth-year PhD student at MIT, advised by Bill Freeman and Josh Tenenbaum. He received his undergraduate degree from Tsinghua University, working with Zhuowen Tu. He has also spent time at research labs of Microsoft, Facebook, and Baidu. His research has been supported by fellowships from Facebook, Nvidia, Samsung, Baidu, and Adobe. He studies machine perception, reasoning, and its interaction with the physical world, drawing inspiration from human cognition.
+      <b><a href="https://cs.brown.edu/people/epavlick/index.html">Ellie Pavlick</a></b> is an Assistant Professor of Computer Science at Brown University, and an academic partner with Google AI. She received her PhD in Computer Science from the University of Pennsylvania. She is interested in building better computational models of natural language semantics and pragmatics: how does language work, and how can we get computers to understand it the way humans do?
     </p>
   </div>
-</div><br> -->
+</div><br>
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!--
+<div class="row">
+  <div class="col-md-12">
+    <a href=""><img class="people-pic" style="float:left;margin-right:50px;" src="{{ "/static/img/speakers/" | prepend:site.baseurl }}"></a>
+    <p>
+      <b><a href="">ABC DEF</a></b> is a .
+    </p>
+  </div>
+</div><br>
+-->
+
+
+
+
+
+
+
+
+
 
 <!-- <div class="row">
   <div class="col-md-12">
@@ -306,7 +372,7 @@ acknowledgements: ""
 </div><br> -->
 
 
-<div class="row">
+<div class="row" id="organizers">
   <div class="col-xs-12">
     <h2>Organizers</h2>
   </div>
@@ -354,9 +420,6 @@ acknowledgements: ""
     </div>
   </div>
 
-</div>
-
-<div class="row">
 
   <div class="col-xs-2">
     <a href="https://fgolemo.github.io/">
@@ -378,6 +441,12 @@ acknowledgements: ""
     </div>
   </div>
 
+</div>
+
+<div class="row">
+
+
+
   <div class="col-xs-2">
     <a href="http://www.david-vazquez.com/">
       <img class="people-pic" src="{{ "/static/img/people/david.jpeg" | prepend:site.baseurl }}">
@@ -398,10 +467,7 @@ acknowledgements: ""
     </div>
   </div>
   
-</div>
-
-<div class="row">
-
+  
   <div class="col-xs-2">
     <a href="https://www.cse.iitb.ac.in/~sidch/">
       <img class="people-pic" src="{{ "/static/img/people/sid.png" | prepend:site.baseurl }}">
@@ -431,8 +497,8 @@ acknowledgements: ""
       <h6>Simon Fraser University</h6>
     </div>
   </div>
-  
 </div>
+
 
 <hr>
 
@@ -541,4 +607,5 @@ acknowledgements: ""
 <span>[16] SceneNN: A Scene Meshes Dataset with aNNotations</span>{:.papertitle}  
 <span>B.S. Hua, Q.H. Pham, D.T. Nguyen, M.K. Tran, L.F. Yu, and S.K. Yeung</span>{:.authors}  
 <span>International Conference on 3D Vision (3DV), 2016</span>{:.journal}   -->
+
 
