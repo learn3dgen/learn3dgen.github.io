@@ -417,6 +417,30 @@ His research focuses on combining computer graphics, vision, and machine learnin
 
 
   <div class="col-xs-2">
+    <a href="https://mila.quebec/en/person/aaron-courville/">
+      <img class="people-pic" src="{{ "/static/img/people/aaron.jpg" | prepend:site.baseurl }}">
+    </a>
+    <div class="people-name">
+      <a href="https://mila.quebec/en/person/aaron-courville/">Aaron Courville</a>
+      <h6>MILA</h6>
+    </div>
+  </div>
+
+  <div class="col-xs-2">
+    <a href="http://www.cim.mcgill.ca/~derek/">
+      <img class="people-pic" src="{{ "/static/img/people/derek.jpg" | prepend:site.baseurl }}">
+    </a>
+    <div class="people-name">
+      <a href="http://www.cim.mcgill.ca/~derek/">Derek Nowrouzezahrai</a>
+      <h6>McGill, MILA</h6>
+    </div>
+  </div>
+
+</div>
+
+<div class="row">
+
+  <div class="col-xs-2">
     <a href="https://fgolemo.github.io/">
       <img class="people-pic" src="{{ "/static/img/people/florian.png" | prepend:site.baseurl }}">
     </a>
@@ -432,15 +456,9 @@ His research focuses on combining computer graphics, vision, and machine learnin
     </a>
     <div class="people-name">
       <a href="https://mila.quebec/en/person/sai-rajeshwar/">Sai Rajeswar</a>
-      <h6>MILA</h6>
+      <h6>MILA, Element AI</h6>
     </div>
   </div>
-
-</div>
-
-<div class="row">
-
-
 
   <div class="col-xs-2">
     <a href="http://www.david-vazquez.com/">
@@ -482,6 +500,9 @@ His research focuses on combining computer graphics, vision, and machine learnin
       <h6>NUDT</h6>
     </div>
   </div>
+  
+</div>
+<div class="row">
 
   <div class="col-xs-2">
     <a href="https://www.cs.sfu.ca/~haoz/">
@@ -492,8 +513,8 @@ His research focuses on combining computer graphics, vision, and machine learnin
       <h6>Simon Fraser University</h6>
     </div>
   </div>
-</div>
 
+</div>
 
 <hr>
 
