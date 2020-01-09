@@ -74,7 +74,7 @@ acknowledgements: ""
       Reviewing will be single blind.
       Accepted extended abstracts will be made publicly available as non-archival reports, allowing future submissions to archival conferences or journals.
       We also welcome already published papers that are within the scope of the workshop (without re-formatting), including papers from the main CVPR conference.
-      The submissions will be handled by the CMT paper management system (available shortly). Please mention in your submission if your submission has already been accepted for publication (and the name of the conference).
+      The submissions will be handled by the <a href='https://cmt3.research.microsoft.com/L3DGM2020'>CMT paper management system</a>. Please mention in your submission if your submission has already been accepted for publication (and the name of the conference).
       <!--Please submit your paper to the following address by the deadline: <span style="color:#1a1aff;font-weight:400;"><a href="mailto:learn3dgen@gmail.com">learn3dgen@gmail.com</a></span>-->
     </p>
   </div>
@@ -214,23 +214,22 @@ acknowledgements: ""
 </div><br>
 
 
-
-<!-- 70 -->
+<!-- 131 -->
 <div class="row">
   <div class="col-md-12">
-    <a href="http://www.cs.utexas.edu/users/grauman/"><img class="people-pic" style="float:left;margin-right:50px;" src="{{ "/static/img/speakers/grauman.jpg" | prepend:site.baseurl }}"></a>
+    <a href="https://people.eecs.berkeley.edu/~malik/"><img class="people-pic" style="float:left;margin-right:50px;" src="{{ "/static/img/speakers/jitendra.gif" | prepend:site.baseurl }}"></a>
     <p>
-      <b><a href="http://www.cs.utexas.edu/users/grauman/">Kristen Grauman</a></b> is a Professor in the Department of Computer Science at the University of Texas at Austin and a Research Scientist in Facebook AI Research (FAIR).  Her research in computer vision and machine learning focuses on visual recognition and search.  Before joining UT-Austin in 2007, she received her Ph.D. at MIT.  She is an Alfred P. Sloan Research Fellow and Microsoft Research New Faculty Fellow, a recipient of NSF CAREER and ONR Young Investigator awards, the PAMI Young Researcher Award in 2013, the 2013 Computers and Thought Award from the International Joint Conference on Artificial Intelligence (IJCAI), the Presidential Early Career Award for Scientists and Engineers (PECASE) in 2013, and the Helmholtz Prize in 2017. 
+      <b><a href="https://people.eecs.berkeley.edu/~malik/">Jitendra Malik</a></b> received the B.Tech degree in Electrical Engineering from Indian Institute of Technology, Kanpur in 1980 and the PhD degree in Computer Science from Stanford University in 1985. In January 1986, he joined the university of California at Berkeley, where he is currently the Arthur J. Chick Professor in the Department of Electrical Engineering and Computer Sciences. Since January 2018, he is also Research Director and Site Lead of Facebook AI Research in Menlo Park. Prof. Malik's research group has worked on many different topics in computer vision, computational modeling of human vision, computer graphics and the analysis of biological images. Several well-known concepts and algorithms arose in this research, such as anisotropic diffusion, normalized cuts, high dynamic range imaging, shape contexts and R-CNN. He has mentored more than 60 PhD students and postdoctoral fellows. His publications have received numerous best paper awards, including five test of time awards - the Longuet-Higgins Prize for papers published at CVPR (twice) and the Helmholtz Prize for papers published at ICCV (three times). He received the 2013 IEEE PAMI-TC Distinguished Researcher in Computer Vision Award, the 2014 K.S. Fu Prize from the International Association of Pattern Recognition, the 2016 ACM-AAAI Allen Newell Award, the 2018 IJCAI Award for Research Excellence in AI, and the 2019 IEEE Computer Society Computer Pioneer Award. He is a fellow of the IEEE and the ACM. He is a member of the National Academy of Engineering and the National Academy of Sciences, and a fellow of the American Academy of Arts and Sciences.
     </p>
   </div>
 </div><br>
 
-<!-- 60 -->
+<!-- 120 -->
 <div class="row">
   <div class="col-md-12">
-    <a href="http://vladlen.info/"><img class="people-pic" style="float:left;margin-right:50px;" src="{{ "/static/img/speakers/vladlen.png" | prepend:site.baseurl }}"></a>
+    <a href="https://geometry.stanford.edu/member/guibas/"><img class="people-pic" style="float:left;margin-right:50px;" src="{{ "/static/img/speakers/leo.jpg" | prepend:site.baseurl }}"></a>
     <p>
-      <b><a href="http://vladlen.info/">Vladlen Koltun</a></b> is a Senior Principal Researcher and the director of the Intelligent Systems Lab at Intel. The lab is devoted to high-impact basic research on intelligent systems. Previously, he has been a Senior Research Scientist at Adobe Research and an Assistant Professor at Stanford where his theoretical research was recognized with the National Science Foundation (NSF) CAREER Award (2006) and the Sloan Research Fellowship (2007).
+      <b><a href="https://geometry.stanford.edu/member/guibas/">Leonias Guibas</a></b> heads the Geometric Computation group in the Computer Science Department of Stanford University.  He is acting director of the Artificial Intelligence Laboratory and member of the Computer Graphics Laboratory, the Institute for Computational and Mathematical Engineering (iCME) and the Bio-X program.  His research centers on algorithms for sensing, modeling, reasoning, rendering, and acting on the physical world. Professor Guibas' interests span computational geometry, geometric modeling, computer graphics, computer vision, sensor networks, robotics, and discrete algorithms --- all areas in which he has published and lectured extensively. Prof. Guibas obtained his Ph.D. from Stanford in 1976, under the supervision of Donald Knuth. He has been at Stanford since 1984 as Professor of Computer Science. Professor Guibas has graduated 41 Ph.D. students and has supervised 29 postdoctoral fellows, many of whom are well-known in computational geometry, in computer graphics, in computer vision, in theoretical computer science, and in ad hoc and sensor networks. He is a member of the US National Academy of Engineering and the American Academy of Arts and Sciences, an ACM Fellow, an IEEE Fellow and winner of the ACM Allen Newell award, the ICCV Helmholtz prize, and a DoD Vennevar Bush Faculty Fellowship.
     </p>
   </div>
 </div><br>
@@ -255,69 +254,65 @@ acknowledgements: ""
   </div>
 </div><br>
 
+<!-- 26 -->
+<div class="row">
+  <div class="col-md-12">
+    <a href="https://people.cs.umass.edu/~kalo/"><img class="people-pic" style="float:left;margin-right:50px;" src="{{ "/static/img/speakers/vangelis.jpg" | prepend:site.baseurl }}"></a>
+    <p>
+      <b><a href="https://people.cs.umass.edu/~kalo/">Evangelos Kalogerakis</a></b> is an Associate Professor Computer Science at the University of Massachussetts Amherst. His research deals with the development of visual computing and machine learning techniques that help people to easily create and process representations of the 3D visual world, including 3D models of objects and scenes, 3D scans, animations, shape collections, and images. His research is supported by NSF awards and donations from Adobe. He was a postdoctoral researcher at Stanford University from 2010 to 2012 (advised by Leo Guibas and Vladlen Koltun). He obtained his PhD from the University of Toronto in 2010 (advised by Aaron Hertzmann and Karan Singh). He graduated from the department of Electrical and Computer Engineering, Technical University of Crete in 2005 (undergraduate thesis advised by Stavros Christodoulakis).
+    </p>
+  </div>
+</div><br>
+
 <!-- 24 -->
 <div class="row">
   <div class="col-md-12">
     <a href="https://jiajunwu.com/"><img class="people-pic" style="float:left;margin-right:50px;" src="{{ "/static/img/speakers/jiajun.png" | prepend:site.baseurl }}"></a>
     <p>
-      <b><a href="https://jiajunwu.com/">Jiajun Wu</a></b> is a fifth-year PhD student at MIT, advised by Bill Freeman and Josh Tenenbaum. He received his undergraduate degree from Tsinghua University, working with Zhuowen Tu. He has also spent time at research labs of Microsoft, Facebook, and Baidu. His research has been supported by fellowships from Facebook, Nvidia, Samsung, Baidu, and Adobe. He studies machine perception, reasoning, and its interaction with the physical world, drawing inspiration from human cognition.
+      <b><a href="https://jiajunwu.com/">Jiajun Wu</a></b> is a Visiting Faculty Researcher at Google Research, New York City, working with Noah Snavely. In Fall 2020, He will join Stanford University as an Assistant Professor of Computer Science. He studies machine perception, reasoning, and its interaction with the physical world, drawing inspiration from human cognition. He completed my PhD at MIT, advised by Bill Freeman and Josh Tenenbaum, and his undergraduate degrees from Tsinghua University, working with Zhuowen Tu. He has also spent time at the research labs of Microsoft, Facebook, and Baidu.
+  </div>
+</div><br>
+
+<!-- 23 -->
+<div class="row">
+  <div class="col-md-12">
+    <a href="http://www.vovakim.com/"><img class="people-pic" style="float:left;margin-right:50px;" src="{{ "/static/img/speakers/vova.jpg" | prepend:site.baseurl }}"></a>
+    <p>
+      <b><a href="http://www.vovakim.com/">Vladimir Kim</a></b> is a Senior Research Scientist at Adobe Research Seattle. He works on geometry analysis algorithms at the intersection of graphics, vision, and machine learning, enabling novel interfaces for creative tasks. His recent research focuses on making it easier to understand, model, manipulate, and process geometric data such as models of 3D objects, interior environments, articulated characters, and fonts.
     </p>
   </div>
 </div><br>
 
+<!-- 23 -->
+<div class="row">
+  <div class="col-md-12">
+    <a href="https://techmatt.github.io/"><img class="people-pic" style="float:left;margin-right:50px;" src="{{ "/static/img/speakers/matt.png" | prepend:site.baseurl }}"></a>
+    <p>
+      <b><a href="https://techmatt.github.io/">Matthew Fisher</a></b> is Senior Research Scientist at Adobe Research San Francisco. He received his PhD from Stanford University supported by a Hertz Fellowship, where here worked with Pat Hanrahan in the Graphics Lab. He completed his undergraduate degree at the California Institute of Technology working with Mathieu Desbrun. During a postdoc at Stanford, he also worked on the data analytics team at Khan Academy.
+His research focuses on combining computer graphics, vision, and machine learning to make it faster and more fun to complete creative tasks.
+    </p>
+  </div>
+</div><br>
 
 <!-- 16 -->
 <div class="row">
   <div class="col-md-12">
     <a href=""><img class="people-pic" style="float:left;margin-right:50px;" src="{{ "/static/img/speakers/georgia.jpg" | prepend:site.baseurl }}"></a>
     <p>
-      <b><a href="">Georgia Gkioxari</a></b> is a research scientist at FAIR. She received her PhD from UC Berkeley, where she was advised by Jitendra Malik. She did her bachelors in ECE at NTUA in Athens, Greece, where she worked with Petros Maragos. In the past, she has spent time at Google Brain and Google Research, where she worked with Navdeep Jaitly and Alexander Toshev.
+      <b><a href="https://gkioxari.github.io/">Georgia Gkioxari</a></b> is a research scientist at FAIR. She received her PhD from UC Berkeley, where she was advised by Jitendra Malik. She did her bachelors in ECE at NTUA in Athens, Greece, where she worked with Petros Maragos. In the past, she has spent time at Google Brain and Google Research, where she worked with Navdeep Jaitly and Alexander Toshev.
     </p>
   </div>
 </div><br>
 
-
-<!-- 16 -->
+<!-- 8 -->
 <div class="row">
   <div class="col-md-12">
-    <a href="https://demuc.de/"><img class="people-pic" style="float:left;margin-right:50px;" src="{{ "/static/img/speakers/johannes.jpg" | prepend:site.baseurl }}"></a>
+    <a href="https://paulguerrero.net/"><img class="people-pic" style="float:left;margin-right:50px;" src="{{ "/static/img/speakers/paul.png" | prepend:site.baseurl }}"></a>
     <p>
-      <b><a href="https://demuc.de/">Johannes L. Schönberger</a></b> is a Senior Scientist at the Microsoft Mixed Reality and AI lab in Zürich. He obtained his PhD in Computer Science in the Computer Vision and Geometry Group at ETH Zürich, where he was advised by Marc Pollefeys and co-advised by Jan-Michael Frahm. He received a BSc from TU Munich and an MSc from UNC Chapel Hill. In addition, he also spent time at Microsoft Research, Google, and the German Aerospace Center. His main research interests lie in robust image-based 3D modeling. More broadly, he is interested in computer vision, geometry, structure-from-motion, (multi-view) stereo, localization, optimization, machine learning, and image processing. He developed the open-source software COLMAP - an end-to-end image-based 3D reconstruction software, which achieves state-of-the-art results on recent reconstruction benchmarks.
+      <b><a href="https://paulguerrero.net/">Paul Guerrero</a></b> recently joined Adobe Research in London, working on the analysis of shapes and irregular structures, such as graphs, meshes, or vector graphics, by combining methods from machine learning, optimization, and computational geometry. Previously, he was a post-doctoral researcher at the Smart Geometry Processing Group, UCL. He completed my PhD at the Insitute for Computer Graphics and Algorithms, Vienna University of Technology, and at the Visual Computing Center in KAUST.
     </p>
   </div>
 </div><br>
-
-
-<!-- 15 -->
-<div class="row">
-  <div class="col-md-12">
-    <a href="https://www.cse.iitb.ac.in/~sidch/"><img class="people-pic" style="float:left;margin-right:50px;" src="{{ "/static/img/speakers/sid.png" | prepend:site.baseurl }}"></a>
-    <p>
-      <b><a href="https://www.cse.iitb.ac.in/~sidch/">Siddhartha Chaudhuri</a></b> is a Senior Research Scientist at Adobe Research, and Assistant Professor (on leave) of Computer Science and Engineering at IIT Bombay. His research focuses on richer tools for designing three-dimensional objects, particularly by novice and casual users, and on related problems in 3D shape understanding, synthesis and reconstruction. He received his PhD from Stanford University, followed by a postdoc at Princeton and a year teaching at Cornell. Apart from basic research, he is also the original author of the commercial 3D modeling package Adobe Fuse.
-    </p>
-  </div>
-</div><br>
-
-<!-- 13 -->
-<div class="row">
-  <div class="col-md-12">
-    <a href="http://graphics.stanford.edu/~adai/"><img class="people-pic" style="float:left;margin-right:50px;" src="{{ "/static/img/speakers/angela.jpg" | prepend:site.baseurl }}"></a>
-    <p>
-      <b><a href="http://graphics.stanford.edu/~adai/">Angela Dai</a></b> is a postdoctoral researcher at the Technical University of Munich.  She received her Ph.D. in Computer Science at Stanford University advised by Pat Hanrahan. Her research focuses on 3D reconstruction and understanding with commodity sensors. She received her Masters degree from Stanford University and her Bachelors degree from Princeton University. She is a recipient of a Stanford Graduate Fellowship.
-    </p>
-  </div>
-</div><br>
-
-<!-- 13 -->
-<div class="row">
-  <div class="col-md-12">
-    <a href="https://cs.brown.edu/people/epavlick/index.html"><img class="people-pic" style="float:left;margin-right:50px;" src="{{ "/static/img/speakers/ellie.gif" | prepend:site.baseurl }}"></a>
-    <p>
-      <b><a href="https://cs.brown.edu/people/epavlick/index.html">Ellie Pavlick</a></b> is an Assistant Professor of Computer Science at Brown University, and an academic partner with Google AI. She received her PhD in Computer Science from the University of Pennsylvania. She is interested in building better computational models of natural language semantics and pragmatics: how does language work, and how can we get computers to understand it the way humans do?
-    </p>
-  </div>
-</div><br>
-
 
 
 
