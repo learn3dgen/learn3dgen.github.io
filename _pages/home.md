@@ -270,6 +270,7 @@ acknowledgements: ""
     <a href="https://jiajunwu.com/"><img class="people-pic" style="float:left;margin-right:50px;" src="{{ "/static/img/speakers/jiajun.png" | prepend:site.baseurl }}"></a>
     <p>
       <b><a href="https://jiajunwu.com/">Jiajun Wu</a></b> is a Visiting Faculty Researcher at Google Research, New York City, working with Noah Snavely. In Fall 2020, He will join Stanford University as an Assistant Professor of Computer Science. He studies machine perception, reasoning, and its interaction with the physical world, drawing inspiration from human cognition. He completed my PhD at MIT, advised by Bill Freeman and Josh Tenenbaum, and his undergraduate degrees from Tsinghua University, working with Zhuowen Tu. He has also spent time at the research labs of Microsoft, Facebook, and Baidu.
+    </p>
   </div>
 </div><br>
 
