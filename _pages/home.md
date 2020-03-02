@@ -30,6 +30,8 @@ acknowledgements: ""
   </div>
 </div> -->
 
+<b>UPDATE 2020-03-02: We decided to have our submitted and accepted papers included in the CVPR 2020 proceedings. This allows for authors to present novel work at our workshop and get a reputable publication on IEEE Xplore/CVF open access. Please note the changed submission date.</b>
+
 <br>
 <div class="row" id="intro">
   <div class="col-xs-12">
