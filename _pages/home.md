@@ -92,15 +92,15 @@ acknowledgements: ""
       <tbody>
         <tr>
           <td>Paper Submission Deadline</td>
-          <td>May 17 2020</td>
+          <td>March 30 2020 - AoE time (UTC -12)</td>
         </tr>
         <tr>
           <td>Notification to Authors</td>
-          <td>May 31 2020</td>
+          <td>April 13 2020</td>
         </tr>
         <tr>
           <td>Camera-Ready Deadline</td>
-          <td>June 7 2020</td>
+          <td>April 20 2020</td>
         </tr>
         <tr>
           <td>Workshop Date</td>
