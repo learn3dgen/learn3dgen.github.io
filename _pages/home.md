@@ -58,7 +58,7 @@ acknowledgements: ""
 <div class="row">
   <div class="col-xs-12">
     <p>
-      <span style="font-weight:500;">Call for papers:</span> We invite extended abstracts for work on tasks related to data-driven 3D generative modeling or tasks leveraging generated 3D content.
+      <span style="font-weight:500;">Call for papers:</span> We invite novel full papers of 4 to 6 pages (extended abstracts are not allowed) for work on tasks related to data-driven 3D generative modeling or tasks leveraging generated 3D content.
       Paper topics may include but are not limited to:
     </p>
     <ul>
@@ -72,9 +72,9 @@ acknowledgements: ""
       <span style="font-weight:500;">Submission:</span> we encourage submissions of up to 6 pages excluding references and acknowledgements.
       The submission should be in the CVPR format.
       Reviewing will be single blind.
-      Accepted extended abstracts will be made publicly available as non-archival reports, allowing future submissions to archival conferences or journals.
-      We also welcome already published papers that are within the scope of the workshop (without re-formatting), including papers from the main CVPR conference.
-      The submissions will be handled by the <a href='https://cmt3.research.microsoft.com/L3DGM2020'>CMT paper management system</a>. Please mention in your submission if your submission has already been accepted for publication (and the name of the conference).
+      Accepted works will be published in the CVPR 2020 proceedings (online/app, IEEE Xplore, and CVF open access).
+      Due to the archival nature of these publications, we are looking for work that has not been published before.
+      The submissions will be handled by the <a href='https://cmt3.research.microsoft.com/L3DGM2020'>CMT paper management system</a>. 
       <!--Please submit your paper to the following address by the deadline: <span style="color:#1a1aff;font-weight:400;"><a href="mailto:learn3dgen@gmail.com">learn3dgen@gmail.com</a></span>-->
     </p>
   </div>
