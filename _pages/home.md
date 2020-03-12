@@ -15,7 +15,7 @@ acknowledgements: ""
   <div class="col-xs-12 header-img">  
     <center><h1>Learning 3D Generative Models</h1></center>
     <center><h2>CVPR 2020 Workshop, Seattle, WA</h2></center>
-    <center><span style="font-weight:400;">Time and Location TBD</span></center>
+    <center><span style="font-weight:400;">14th of June 2020. Location TBD</span></center>
     <!--<center><span style="color:#e74c3c;font-weight:400;">Time and Location TBD</span></center>-->
     <br/>
   </div>
