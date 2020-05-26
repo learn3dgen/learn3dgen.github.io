@@ -30,7 +30,7 @@ acknowledgements: ""
   </div>
 </div> -->
 
-<b>UPDATE 2020-03-02: We decided to have our submitted and accepted papers included in the CVPR 2020 proceedings. This allows for authors to present novel work at our workshop and get a reputable publication on IEEE Xplore/CVF open access. Please note the changed submission date.</b>
+<!-- <b>UPDATE 2020-03-02: We decided to have our submitted and accepted papers included in the CVPR 2020 proceedings. This allows for authors to present novel work at our workshop and get a reputable publication on IEEE Xplore/CVF open access. Please note the changed submission date.</b> -->
 
 <br>
 <div class="row" id="intro">
@@ -106,7 +106,7 @@ acknowledgements: ""
         </tr>
         <tr>
           <td>Workshop Date</td>
-          <td>TBD, one of June 14,15,19 2020</td>
+          <td>June 14 2020</td>
         </tr>
       </tbody>
     </table>
@@ -136,52 +136,52 @@ acknowledgements: ""
           <td>9:25am - 9:50am</td>
         </tr>
         <tr>
-          <td>Spotlight Talks (x3)</td>
-          <td>9:50am - 10:05am</td>
+          <td>Spotlight Talks (Poster Session 1)</td>
+          <td>9:50am - 10:10am</td>
         </tr>
         <tr>
-          <td>Coffee Break and Poster Session</td>
-          <td>10:05am - 11:00am</td>
+          <td>Poster Session 1</td>
+          <td>10:10am - 11:10am</td>
         </tr>
         <tr>
           <td>Invited Talk 3</td>
-          <td>11:00am - 11:25am</td>
+          <td>11:10am - 11:35am</td>
         </tr>
         <tr>
           <td>Invited Talk 4</td>
-          <td>11:25am - 11:50am</td>
+          <td>11:35am - 12:00pm</td>
         </tr>
         <tr>
           <td>Lunch Break</td>
-          <td>11:50am - 1:00pm</td>
+          <td>12:50pm - 1:00pm</td>
         </tr>
         <tr>
           <td>Invited Talk 5</td>
-          <td>1:00pm - 2:40pm</td>
-        </tr>
-        <tr>
-          <td>Spotlight Talks (x3)</td>
-          <td>2:40pm - 3:05pm</td>
-        </tr>
-        <tr>
-          <td>Coffee Break and Poster Session</td>
-          <td>3:05pm - 4:00pm</td>
+          <td>1:00pm - 1:25pm</td>
         </tr>
         <tr>
           <td>Invited Talk 6</td>
-          <td>4:00pm - 4:25pm</td>
+          <td>1:25pm - 1:50pm</td>
+        </tr>
+        <tr>
+          <td>Spotlight Talks (Poster Session 2)</td>
+          <td>1:50pm - 2:10pm</td>
+        </tr>
+        <tr>
+          <td>Poster Session 2</td>
+          <td>2:10pm - 3:10pm</td>
         </tr>
         <tr>
           <td>Invited Talk 7</td>
-          <td>4:25pm - 4:50pm</td>
+          <td>3:10pm - 3:35pm</td>
         </tr>
         <tr>
           <td>Invited Talk 8</td>
-          <td>4:50pm - 5:15pm</td>
+          <td>3:35pm - 4:0pm</td>
         </tr>
         <tr>
           <td>Panel Discussion and Conclusion</td>
-          <td>5:15pm - 6:00pm</td>
+          <td>4:00pm - 4:30pm</td>
         </tr>
       </tbody>
     </table>
@@ -195,18 +195,58 @@ acknowledgements: ""
   </div>
 </div>
 
-<span style="color:#e74c3c;font-weight:400;">TBD</span>
-
-<!--
-<br>
 <div class="row">
+  <br/>
   <div class="col-md-12">
-    <span style="font-weight:200;">DeepSDF: Learning Continuous Signed Distance Functions for Shape Representation</span><br>
-    Jeong Joon Park, Peter Florence, Julian Straub, Richard Newcombe, Steven Lovegrove<br>
-    <a href="https://drive.google.com/file/d/1oYUQOicJ-gIcLaQUnrE23azPDMW5VphP/view?usp=sharing">Paper</a> | Poster #24 AM (morning)
+    <h3>Poster Session 1 (10:10am - 11:10am)</h3>
+    <br/>
+    <span style="font-weight:bold;">VoronoiNet: General Functional Approximators with Local Support</span><br>
+    Francis Williams, Jérôme Parent-Lévesque, Derek Nowrouzezahrai, Daniele Panozzo,  Kwang Moo Yi, Andrea Tagliasacchi<br>
+    <a href="#">Paper</a> | <a href="#">Poster</a> | <a href="#">Spotlight (Video)</a> | <a href="#">Spotlight (Slides)</a>
+    <br/>
+    <br/>
+    <span style="font-weight:bold;">Deep Octree-based CNNs with Output-Guided Skip Connections for 3D Shape and Scene Completion</span><br>
+    Peng-Shuai Wang, Yang Liu, Xin Tong<br>
+    <a href="#">Paper</a> | <a href="#">Poster</a> | <a href="#">Spotlight (Video)</a> | <a href="#">Spotlight (Slides)</a>
+    <br/>
+    <br/>
+    <span style="font-weight:bold;">ShapeAdv: Generating Shape-Aware Adversarial 3D Point Clouds</span><br>
+    Kibok Lee, Zhuoyuan Chen, Xinchen Yan, Raquel Urtasun, Ersin Yumer<br>
+    <a href="#">Paper</a> | <a href="#">Poster</a> | <a href="#">Spotlight (Video)</a> | <a href="#">Spotlight (Slides)</a>
+    <br/>
+    <br/>
+    <span style="font-weight:bold;">Generalized Autoencoder for Volumetric Shape Generation</span><br>
+    Yanran Guan, Tansin Jahan, Oliver van Kaick<br>
+    <a href="#">Paper</a> | <a href="#">Poster</a> | <a href="#">Spotlight (Video)</a> | <a href="#">Spotlight (Slides)</a>
   </div>
 </div>
- -->
+
+<div class="row">
+  <br/>
+  <br/>
+  <div class="col-md-12">
+    <h3>Poster Session 2 (2:10pm - 3:10pm)</h3>
+    <br/>
+    <span style="font-weight:bold;">Topology-Aware Single-Image 3D Shape Reconstruction</span><br>
+    Qimin Chen, Vincent Nguyen, Feng Han, Raimondas Kiveris, Zhuowen Tu<br>
+    <a href="#">Paper</a> | <a href="#">Poster</a> | <a href="#">Spotlight (Video)</a> | <a href="#">Spotlight (Slides)</a>
+    <br/>
+    <br/>
+    <span style="font-weight:bold;">Geometry to the Rescue: 3D Instance Reconstruction from a Cluttered Scene</span><br>
+    Lin Li, Salman Khan, Nick Barnes<br>
+    <a href="#">Paper</a> | <a href="#">Poster</a> | <a href="#">Spotlight (Video)</a> | <a href="#">Spotlight (Slides)</a>
+    <br/>
+    <br/>
+    <span style="font-weight:bold;">Mesh Variational Autoencoders with Edge Contraction Pooling</span><br>
+    Yu-Jie Yuan, Yu-Kun Lai, Jie Yang,  Qi Duan, Hongbo Fu, Lin Gao<br>
+    <a href="#">Paper</a> | <a href="#">Poster</a> | <a href="#">Spotlight (Video)</a> | <a href="#">Spotlight (Slides)</a>
+    <br/>
+    <br/>
+    <span style="font-weight:bold;">BSP-Net: Generating Compact Meshes via Binary Space Partitioning</span><br>
+    Zhiqin Chen, Andrea Tagliasacchi, Hao Zhang<br>
+    <a href="#">Paper</a> | <a href="#">Poster</a> | <a href="#">Spotlight (Video)</a> | <a href="#">Spotlight (Slides)</a>
+  </div>
+</div>
 
 <br>
 <div class="row" id="speakers">
