@@ -210,6 +210,11 @@ acknowledgements: ""
     <a href="#">Paper</a> | <a href="#">Poster</a> | <a href="#">Spotlight (Video)</a> | <a href="#">Spotlight (Slides)</a>
     <br/>
     <br/>
+    <span style="font-weight:bold;">PQ-NET: A Generative Part Seq2Seq Network for 3D Shapes</span><br>
+    Rundi Wu, Yixin Zhuang, Kai Xu, Hao Zhang, Baoquan Chen<br>
+    <a href="#">Paper</a> | <a href="#">Poster</a> | <a href="#">Spotlight (Video)</a> | <a href="#">Spotlight (Slides)</a>
+    <br/>
+    <br/>
     <span style="font-weight:bold;">Generalized Autoencoder for Volumetric Shape Generation</span><br>
     Yanran Guan, Tansin Jahan, Oliver van Kaick<br>
     <a href="#">Paper</a> | <a href="#">Poster</a> | <a href="#">Spotlight (Video)</a> | <a href="#">Spotlight (Slides)</a>
