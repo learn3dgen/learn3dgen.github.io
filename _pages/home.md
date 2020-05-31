@@ -141,15 +141,19 @@ acknowledgements: ""
         </tr>
         <tr>
           <td>Poster Session 1</td>
-          <td>10:10am - 11:10am</td>
+          <td>10:10am - 10:55am</td>
         </tr>
         <tr>
           <td>Invited Talk 3</td>
-          <td>11:10am - 11:35am</td>
+          <td>10:55am - 11:20am</td>
         </tr>
         <tr>
           <td>Invited Talk 4</td>
-          <td>11:35am - 12:00pm</td>
+          <td>11:20am - 11:45am</td>
+        </tr>
+        <tr>
+          <td>Surprise Talk</td>
+          <td>11:45am - 12:00pm</td>
         </tr>
         <tr>
           <td>Lunch Break</td>
@@ -169,19 +173,19 @@ acknowledgements: ""
         </tr>
         <tr>
           <td>Poster Session 2</td>
-          <td>2:10pm - 3:10pm</td>
+          <td>2:10pm - 2:55pm</td>
         </tr>
         <tr>
           <td>Invited Talk 7</td>
-          <td>3:10pm - 3:35pm</td>
+          <td>2:55pm - 3:20pm</td>
         </tr>
         <tr>
           <td>Invited Talk 8</td>
-          <td>3:35pm - 4:0pm</td>
+          <td>3:20pm - 3:45pm</td>
         </tr>
         <tr>
           <td>Panel Discussion and Conclusion</td>
-          <td>4:00pm - 4:30pm</td>
+          <td>3:45pm - 4:30pm</td>
         </tr>
       </tbody>
     </table>
