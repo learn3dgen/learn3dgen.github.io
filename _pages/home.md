@@ -128,11 +128,11 @@ acknowledgements: ""
           <td>8:45am - 9:00am</td>
         </tr>
         <tr>
-          <td>Invited Talk 1</td>
+          <td>Invited Talk 1 (Daniel Aliaga)</td>
           <td>9:00am - 9:25am</td>
         </tr>
         <tr>
-          <td>Invited Talk 2</td>
+          <td>Invited Talk 2 (Evangelos Kalogerakis)</td>
           <td>9:25am - 9:50am</td>
         </tr>
         <tr>
@@ -144,11 +144,11 @@ acknowledgements: ""
           <td>10:10am - 10:55am</td>
         </tr>
         <tr>
-          <td>Invited Talk 3</td>
+          <td>Invited Talk 3 (Georgia Gkioxari)</td>
           <td>10:55am - 11:20am</td>
         </tr>
         <tr>
-          <td>Invited Talk 4</td>
+          <td>Invited Talk 4 (Jitendra Malik)</td>
           <td>11:20am - 11:45am</td>
         </tr>
         <tr>
@@ -160,11 +160,11 @@ acknowledgements: ""
           <td>12:50pm - 1:00pm</td>
         </tr>
         <tr>
-          <td>Invited Talk 5</td>
+          <td>Invited Talk 5 (Paul Guerrero)</td>
           <td>1:00pm - 1:25pm</td>
         </tr>
         <tr>
-          <td>Invited Talk 6</td>
+          <td>Invited Talk 6 (Vladimir Kim)</td>
           <td>1:25pm - 1:50pm</td>
         </tr>
         <tr>
@@ -176,11 +176,11 @@ acknowledgements: ""
           <td>2:10pm - 2:55pm</td>
         </tr>
         <tr>
-          <td>Invited Talk 7</td>
+          <td>Invited Talk 7 (Jiajun Wu)</td>
           <td>2:55pm - 3:20pm</td>
         </tr>
         <tr>
-          <td>Invited Talk 8</td>
+          <td>Invited Talk 8 (Sanja Fidler)</td>
           <td>3:20pm - 3:45pm</td>
         </tr>
         <tr>
