@@ -15,7 +15,7 @@ acknowledgements: ""
   <div class="col-xs-12 header-img">  
     <center><h1>Learning 3D Generative Models</h1></center>
     <center><h2>CVPR 2020 Workshop, Seattle, WA</h2></center>
-    <center><span style="font-weight:400;">14th of June 2020. Location TBD</span></center>
+    <center><span style="font-weight:400;">14th of June 2020</span></center>
     <!--<center><span style="color:#e74c3c;font-weight:400;">Time and Location TBD</span></center>-->
     <br/>
   </div>
@@ -202,7 +202,7 @@ acknowledgements: ""
 <div class="row">
   <br/>
   <div class="col-md-12">
-    <h3>Poster Session 1 (10:10am - 11:10am)</h3>
+    <h3>Poster Session 1 (10:10am - 10:55am)</h3>
     <br/>
     <span style="font-weight:bold;">VoronoiNet: General Functional Approximators with Local Support</span><br>
     Francis Williams, Jérôme Parent-Lévesque, Derek Nowrouzezahrai, Daniele Panozzo,  Kwang Moo Yi, Andrea Tagliasacchi<br>
@@ -229,7 +229,7 @@ acknowledgements: ""
   <br/>
   <br/>
   <div class="col-md-12">
-    <h3>Poster Session 2 (2:10pm - 3:10pm)</h3>
+    <h3>Poster Session 2 (2:10pm - 2:55pm)</h3>
     <br/>
     <span style="font-weight:bold;">Topology-Aware Single-Image 3D Shape Reconstruction</span><br>
     Qimin Chen, Vincent Nguyen, Feng Han, Raimondas Kiveris, Zhuowen Tu<br>
@@ -266,16 +266,6 @@ acknowledgements: ""
     <a href="https://people.eecs.berkeley.edu/~malik/"><img class="people-pic" style="float:left;margin-right:50px;" src="{{ "/static/img/speakers/jitendra.gif" | prepend:site.baseurl }}"></a>
     <p>
       <b><a href="https://people.eecs.berkeley.edu/~malik/">Jitendra Malik</a></b> received the B.Tech degree in Electrical Engineering from Indian Institute of Technology, Kanpur in 1980 and the PhD degree in Computer Science from Stanford University in 1985. In January 1986, he joined the university of California at Berkeley, where he is currently the Arthur J. Chick Professor in the Department of Electrical Engineering and Computer Sciences. Since January 2018, he is also Research Director and Site Lead of Facebook AI Research in Menlo Park. Prof. Malik's research group has worked on many different topics in computer vision, computational modeling of human vision, computer graphics and the analysis of biological images. Several well-known concepts and algorithms arose in this research, such as anisotropic diffusion, normalized cuts, high dynamic range imaging, shape contexts and R-CNN. He has mentored more than 60 PhD students and postdoctoral fellows. His publications have received numerous best paper awards, including five test of time awards - the Longuet-Higgins Prize for papers published at CVPR (twice) and the Helmholtz Prize for papers published at ICCV (three times). He received the 2013 IEEE PAMI-TC Distinguished Researcher in Computer Vision Award, the 2014 K.S. Fu Prize from the International Association of Pattern Recognition, the 2016 ACM-AAAI Allen Newell Award, the 2018 IJCAI Award for Research Excellence in AI, and the 2019 IEEE Computer Society Computer Pioneer Award. He is a fellow of the IEEE and the ACM. He is a member of the National Academy of Engineering and the National Academy of Sciences, and a fellow of the American Academy of Arts and Sciences.
-    </p>
-  </div>
-</div><br>
-
-<!-- 120 -->
-<div class="row">
-  <div class="col-md-12">
-    <a href="https://geometry.stanford.edu/member/guibas/"><img class="people-pic" style="float:left;margin-right:50px;" src="{{ "/static/img/speakers/leo.jpg" | prepend:site.baseurl }}"></a>
-    <p>
-      <b><a href="https://geometry.stanford.edu/member/guibas/">Leonias Guibas</a></b> heads the Geometric Computation group in the Computer Science Department of Stanford University.  He is acting director of the Artificial Intelligence Laboratory and member of the Computer Graphics Laboratory, the Institute for Computational and Mathematical Engineering (iCME) and the Bio-X program.  His research centers on algorithms for sensing, modeling, reasoning, rendering, and acting on the physical world. Professor Guibas' interests span computational geometry, geometric modeling, computer graphics, computer vision, sensor networks, robotics, and discrete algorithms --- all areas in which he has published and lectured extensively. Prof. Guibas obtained his Ph.D. from Stanford in 1976, under the supervision of Donald Knuth. He has been at Stanford since 1984 as Professor of Computer Science. Professor Guibas has graduated 41 Ph.D. students and has supervised 29 postdoctoral fellows, many of whom are well-known in computational geometry, in computer graphics, in computer vision, in theoretical computer science, and in ad hoc and sensor networks. He is a member of the US National Academy of Engineering and the American Academy of Arts and Sciences, an ACM Fellow, an IEEE Fellow and winner of the ACM Allen Newell award, the ICCV Helmholtz prize, and a DoD Vennevar Bush Faculty Fellowship.
     </p>
   </div>
 </div><br>
@@ -330,17 +320,6 @@ acknowledgements: ""
   </div>
 </div><br>
 
-<!-- 23 -->
-<div class="row">
-  <div class="col-md-12">
-    <a href="https://techmatt.github.io/"><img class="people-pic" style="float:left;margin-right:50px;" src="{{ "/static/img/speakers/matt.png" | prepend:site.baseurl }}"></a>
-    <p>
-      <b><a href="https://techmatt.github.io/">Matthew Fisher</a></b> is Senior Research Scientist at Adobe Research San Francisco. He received his PhD from Stanford University supported by a Hertz Fellowship, where here worked with Pat Hanrahan in the Graphics Lab. He completed his undergraduate degree at the California Institute of Technology working with Mathieu Desbrun. During a postdoc at Stanford, he also worked on the data analytics team at Khan Academy.
-His research focuses on combining computer graphics, vision, and machine learning to make it faster and more fun to complete creative tasks.
-    </p>
-  </div>
-</div><br>
-
 <!-- 16 -->
 <div class="row">
   <div class="col-md-12">
@@ -363,55 +342,6 @@ His research focuses on combining computer graphics, vision, and machine learnin
 
 
 
-
-
-
-
-
-
-
-
-
-<!--
-<div class="row">
-  <div class="col-md-12">
-    <a href=""><img class="people-pic" style="float:left;margin-right:50px;" src="{{ "/static/img/speakers/" | prepend:site.baseurl }}"></a>
-    <p>
-      <b><a href="">ABC DEF</a></b> is a .
-    </p>
-  </div>
-</div><br>
--->
-
-
-
-
-
-
-
-
-
-
-<!-- <div class="row">
-  <div class="col-md-12">
-    <b>Industry Participants</b>
-    <p>The workshop also features presentations by representatives of the following companies:</p>
-  </div>
-</div>
-<div class="row">
-  <div class="col-md-3">
-    <a href="https://planner5d.com/"><img src="/static/img/p5d.png" /></a>
-  </div>
-  <div class="col-md-3">
-    <a href="https://wayfair.com/"><img src="/static/img/wayfair.png" /></a>
-  </div>
-  <div class="col-md-3">
-    <a href="https://modsy.com/"><img src="/static/img/modsy.png" /></a>
-  </div>
-  <div class="col-md-3">
-    <a href="https://zillow.com/"><img src="/static/img/zillow.png" /></a>
-  </div>
-</div><br> -->
 
 
 <div class="row" id="organizers">
@@ -582,93 +512,4 @@ His research focuses on combining computer graphics, vision, and machine learnin
 {% endif %}
 
 <br>
-
-<!--
-
-<div class="row">
-  <div class="col-xs-12">
-    <h2>References</h2>
-  </div>
-</div>
-
-{:.paper}
-<span>[1] Fast and Flexible Indoor Scene Synthesis via Deep Convolutional Generative Models</span>{:.papertitle}  
-<span>D. Ritchie, K. Wang, and Y.a. Lin</span>{:.authors}  
-<span>_CoRR_, vol. arXiv:1811.12463, 2018</span>{:.journal}  
-
-{:.paper}
-<span>[2] GRAINS: Generative Recursive Autoencoders for INdoor Scenes</span>{:.papertitle}  
-<span>M. Li, A.G. Patil, K. Xu, S. Chaudhuri, O. Khan, A. Shamir, C. Tu, B. Chen, D. Cohen-Or, and H. Zhang</span>{:.authors}  
-<span>_CoRR_, vol. arXiv:1807.09193, 2018</span>{:.journal}  
-
-{:.paper}
-<span>[3] Gibson env: real-world perception for embodied agents</span>{:.papertitle}  
-<span>F. Xia, A. R. Zamir, Z.Y. He, A. Sax, J. Malik, and S. Savarese</span>{:.authors}  
-<span>Computer Vision and Pattern Recognition (CVPR), 2018 IEEE Conference on, IEEE, 2018</span>{:.journal}  
-
-{:.paper}
-<span>[4] VirtualHome: Simulating Household Activities via Programs</span>{:.papertitle}  
-<span>X. Puig, K. Ra, M. Boben, J. Li, T. Wang, S. Fidler, and A. Torralba</span>{:.authors}  
-<span>CVPR, 2018</span>{:.journal}  
-
-{:.paper}
-<span>[5] Embodied Question Answering</span>{:.papertitle}  
-<span>A. Das, S. Datta, G. Gkioxari, S. Lee, D. Parikh, and D. Batra</span>{:.authors}  
-<span>CVPR, 2018</span>{:.journal}  
-
-{:.paper}
-<span>[6] ScanComplete: Large-Scale Scene Completion and Semantic Segmentation for 3D Scans</span>{:.papertitle}  
-<span>A. Dai, D. Ritchie, M. Bokeloh, S. Reed, J. Sturm, and M. Nießner</span>{:.authors}  
-<span>Proc. Computer Vision and Pattern Recognition (CVPR), IEEE, 2018</span>{:.journal}  
-
-{:.paper}
-<span>[7] SeeThrough: Finding Objects in Heavily Occluded Indoor Scene Images</span>{:.papertitle}  
-<span>N. Mitra, V. Kim, E. Yumer, M. Hueting, N. Carr, and P. Reddy</span>{:.authors}  
-<span>2018 International Conference on 3D Vision (3DV), 2018</span>{:.journal}  
-
-{:.paper}
-<span>[8] Matterport3D: Learning from RGB-D Data in Indoor Environments</span>{:.papertitle}  
-<span>A. Chang, A. Dai, T. Funkhouser, M. Halber, M. Niessner, M. Savva, S. Song, A. Zeng, and Y. Zhang</span>{:.authors}  
-<span>_International Conference on 3D Vision (3DV)_, 2017</span>{:.journal}  
-
-{:.paper}
-<span>[9] Joint 2D-3D-semantic data for indoor scene understanding</span>{:.papertitle}  
-<span>I. Armeni, S. Sax, A.R. Zamir, and S. Savarese</span>{:.authors}  
-<span>_arXiv preprint arXiv:1702.01105_, 2017</span>{:.journal}  
-
-{:.paper}
-<span>[10] MINOS: Multimodal Indoor Simulator for Navigation in Complex Environments</span>{:.papertitle}  
-<span>M. Savva, A.X. Chang, A. Dosovitskiy, T. Funkhouser, and V. Koltun</span>{:.authors}  
-<span>_arXiv:1712.03931_, 2017</span>{:.journal}  
-
-{:.paper}
-<span>[11] AI2-THOR: An interactive 3D environment for visual AI</span>{:.papertitle}  
-<span>E. Kolve, R. Mottaghi, D. Gordon, Y. Zhu, A. Gupta, and A. Farhadi</span>{:.authors}  
-<span>_arXiv preprint arXiv:1712.05474_, 2017</span>{:.journal}  
-
-{:.paper}
-<span>[12] Physically-Based Rendering for Indoor Scene Understanding Using Convolutional Neural Networks</span>{:.papertitle}  
-<span>Y. Zhang, S. Song, E. Yumer, M. Savva, J.Y. Lee, H. Jin, and T. Funkhouser</span>{:.authors}  
-<span>_The IEEE Conference on Computer Vision and Pattern Recognition (CVPR)_, 2017</span>{:.journal}  
-
-{:.paper}
-<span>[13] Semantic scene completion from a single depth image</span>{:.papertitle}  
-<span>S. Song, F. Yu, A. Zeng, A.X. Chang, M. Savva, and T. Funkhouser</span>{:.authors}  
-<span>Proceedings of the Conference on Computer Vision and Pattern Recognition (CVPR), 2017</span>{:.journal}  
-
-{:.paper}
-<span>[14] ScanNet: Richly-annotated 3D Reconstructions of Indoor Scenes</span>{:.papertitle}  
-<span>A. Dai, A.X. Chang, M. Savva, M. Halber, T. Funkhouser, and M. Nießner</span>{:.authors}  
-<span>Proc. Computer Vision and Pattern Recognition (CVPR), IEEE, 2017</span>{:.journal}  
-
-{:.paper}
-<span>[15]  CARLA: An Open Urban Driving Simulator</span>{:.papertitle}  
-<span>A. Dosovitskiy, G. Ros, F. Codevilla, A. Lopez, and V. Koltun</span>{:.authors}  
-<span>1--16, Proceedings of the 1st Annual Conference on Robot Learning, 2017</span>{:.journal}  
-
-{:.paper}
-<span>[16] SceneNN: A Scene Meshes Dataset with aNNotations</span>{:.papertitle}  
-<span>B.S. Hua, Q.H. Pham, D.T. Nguyen, M.K. Tran, L.F. Yu, and S.K. Yeung</span>{:.authors}  
-<span>International Conference on 3D Vision (3DV), 2016</span>{:.journal}   -->
-
 
