@@ -160,7 +160,11 @@ acknowledgements: ""
           <td>12:50pm - 1:00pm</td>
         </tr>
         <tr>
-          <td>Invited Talk 5 (Paul Guerrero)</td>
+          <td>
+          Invited Talk 5 (Paul Guerrero)
+          <br/>
+          <i>Structuring Shapes and Shape Distributions</i>
+          </td>
           <td>1:00pm - 1:25pm</td>
         </tr>
         <tr>
