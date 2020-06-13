@@ -117,6 +117,16 @@ acknowledgements: ""
 <div class="row" id="schedule">
   <div class="col-xs-12">
     <h2>Schedule</h2>
+    <p>
+      In the table of events below, links labeled "Video" redirect to pre-recorded talks.
+      If an event does not have a "Video" link, then it is a live session.
+      After a live session finishes, a "Video" link will be added which redirects to the Zoom recording of the session.
+      The links labeled "Zoom/chat" redirect to the CVPR internal webpage for the corresponding schedule item.
+      These pages require a CVPR registration to access (to prevent Zoom-bombing).
+    </p>
+    <p>
+      For links to the content for the posters and spotlight presentations, please see the "Accepted Papers" section below.
+    </p>
   </div>
 </div>
 <div class="row">
@@ -124,72 +134,116 @@ acknowledgements: ""
      <table class="table table-striped">
       <tbody>
         <tr>
-          <td>Welcome and Introduction</td>
           <td>8:45am - 9:00am</td>
+          <td>Welcome and Introduction</td>
+          <td></td>
+          <!-- <td><a href='#'>Video</a></td> -->
+          <td><a href='#'>Zoom/chat</a></td>
         </tr>
         <tr>
-          <td>Invited Talk 1 (Daniel Aliaga)</td>
           <td>9:00am - 9:25am</td>
+          <td>Invited Talk 1 (Daniel Aliaga)</td>
+          <td><a href='#'>Video</a></td>
+          <td><a href='#'>Zoom/chat</a></td>
         </tr>
         <tr>
-          <td>Invited Talk 2 (Evangelos Kalogerakis)</td>
           <td>9:25am - 9:50am</td>
+          <td>Invited Talk 2 (Evangelos Kalogerakis)</td>
+          <td><a href='#'>Video</a></td>
+          <td><a href='#'>Zoom/chat</a></td>
         </tr>
         <tr>
-          <td>Spotlight Talks (Poster Session 1)</td>
           <td>9:50am - 10:10am</td>
+          <td>Spotlight Talks (Poster Session 1)</td>
+          <td></td>
+          <td></td>
         </tr>
         <tr>
-          <td>Poster Session 1</td>
           <td>10:10am - 10:55am</td>
+          <td>Poster Session 1</td>
+          <td></td>
+          <td></td>
         </tr>
         <tr>
-          <td>Invited Talk 3 (Georgia Gkioxari)</td>
           <td>10:55am - 11:20am</td>
+          <td>
+          Invited Talk 3 (Georgia Gkioxari)
+          <br/>
+          <i>Beyond 2D Visual Recognition</i>
+          </td>
+          <td><a href='#'>Video</a></td>
+          <td><a href='#'>Zoom/chat</a></td>
         </tr>
         <tr>
-          <td>Invited Talk 4 (Jitendra Malik)</td>
           <td>11:20am - 11:45am</td>
+          <td>Invited Talk 4 (Jitendra Malik)</td>
+          <!-- <td><a href='#'>Video</a></td> -->
+          <td></td>
+          <td><a href='#'>Zoom/chat</a></td>
         </tr>
         <tr>
-          <td>Surprise Talk</td>
           <td>11:45am - 12:00pm</td>
+          <td>Surprise Talk</td>
+          <td></td>
+          <!-- <td><a href='#'>Video</a></td> -->
+          <td><a href='#'>Zoom/chat</a></td>
         </tr>
         <tr>
-          <td>Lunch Break</td>
           <td>12:50pm - 1:00pm</td>
+          <td>Lunch Break</td>
+          <td></td>
+          <td></td>
         </tr>
         <tr>
+          <td>1:00pm - 1:25pm</td>
           <td>
           Invited Talk 5 (Paul Guerrero)
           <br/>
           <i>Structuring Shapes and Shape Distributions</i>
           </td>
-          <td>1:00pm - 1:25pm</td>
+          <td><a href='#'>Video</a></td>
+          <td><a href='#'>Zoom/chat</a></td>
         </tr>
         <tr>
-          <td>Invited Talk 6 (Vladimir Kim)</td>
           <td>1:25pm - 1:50pm</td>
+          <td>
+          Invited Talk 6 (Vladimir Kim)
+          <br/>
+          <i>Neural Mesh Processing</i>
+          </td>
+          <td><a href='#'>Video</a></td>
+          <td><a href='#'>Zoom/chat</a></td>
         </tr>
         <tr>
-          <td>Spotlight Talks (Poster Session 2)</td>
           <td>1:50pm - 2:10pm</td>
+          <td>Spotlight Talks (Poster Session 2)</td>
+          <td></td>
+          <td></td>
         </tr>
         <tr>
-          <td>Poster Session 2</td>
           <td>2:10pm - 2:55pm</td>
+          <td>Poster Session 2</td>
+          <td></td>
+          <td></td>
         </tr>
         <tr>
-          <td>Invited Talk 7 (Jiajun Wu)</td>
           <td>2:55pm - 3:20pm</td>
+          <td>Invited Talk 7 (Jiajun Wu)</td>
+          <td><a href='#'>Video</a></td>
+          <td><a href='#'>Zoom/chat</a></td>
         </tr>
         <tr>
-          <td>Invited Talk 8 (Sanja Fidler)</td>
           <td>3:20pm - 3:45pm</td>
+          <td>Invited Talk 8 (Sanja Fidler)</td>
+          <td><a href='#'>Video</a></td>
+          <td><a href='#'>Zoom/chat</a></td>
         </tr>
         <tr>
-          <td>Panel Discussion and Conclusion</td>
           <td>3:45pm - 4:30pm</td>
+          <td>Panel Discussion and Conclusion</td>
+          <td></td>
+          <!-- <td><a href='#'>Video</a></td> -->
+          <td><a href='#'>Zoom/chat</a></td>
         </tr>
       </tbody>
     </table>
@@ -208,24 +262,36 @@ acknowledgements: ""
   <div class="col-md-12">
     <h3>Poster Session 1 (10:10am - 10:55am)</h3>
     <br/>
-    <span style="font-weight:bold;">VoronoiNet: General Functional Approximators with Local Support</span><br>
-    Francis Williams, Jérôme Parent-Lévesque, Derek Nowrouzezahrai, Daniele Panozzo,  Kwang Moo Yi, Andrea Tagliasacchi<br>
-    <a href="#">Paper</a> | <a href="#">Poster</a> | <a href="#">Spotlight (Video)</a> | <a href="#">Spotlight (Slides)</a>
+    <span style="font-weight:bold;"><a href='#'>VoronoiNet: General Functional Approximators with Local Support</a></span><br>
+    <i>Francis Williams, Jérôme Parent-Lévesque, Derek Nowrouzezahrai, Daniele Panozzo,  Kwang Moo Yi, Andrea Tagliasacchi</i>
+    <br/>
+    Spotlight Presentation: <a href='#'>Video</a> | <a href='#'>Slides</a> | <a href='#'>Zoom/chat</a>
+    <br/>
+    Poster Session: <a href='#'>Poster</a> | <a href='#'>Zoom/chat</a>
     <br/>
     <br/>
-    <span style="font-weight:bold;">Deep Octree-based CNNs with Output-Guided Skip Connections for 3D Shape and Scene Completion</span><br>
-    Peng-Shuai Wang, Yang Liu, Xin Tong<br>
-    <a href="#">Paper</a> | <a href="#">Poster</a> | <a href="#">Spotlight (Video)</a> | <a href="#">Spotlight (Slides)</a>
+    <span style="font-weight:bold;"><a href='#'>Deep Octree-based CNNs with Output-Guided Skip Connections for 3D Shape and Scene Completion</a></span><br>
+    <i>Peng-Shuai Wang, Yang Liu, Xin Tong</i>
+    <br/>
+    Spotlight Presentation: <a href='#'>Video</a> | <a href='#'>Slides</a> | <a href='#'>Zoom/chat</a>
+    <br/>
+    Poster Session: <a href='#'>Poster</a> | <a href='#'>Zoom/chat</a>
     <br/>
     <br/>
-    <span style="font-weight:bold;">PQ-NET: A Generative Part Seq2Seq Network for 3D Shapes</span><br>
-    Rundi Wu, Yixin Zhuang, Kai Xu, Hao Zhang, Baoquan Chen<br>
-    <a href="#">Paper</a> | <a href="#">Poster</a> | <a href="#">Spotlight (Video)</a> | <a href="#">Spotlight (Slides)</a>
+    <span style="font-weight:bold;"><a href='#'>PQ-NET: A Generative Part Seq2Seq Network for 3D Shapes</a></span><br>
+    <i>Rundi Wu, Yixin Zhuang, Kai Xu, Hao Zhang, Baoquan Chen</i>
+    <br/>
+    Spotlight Presentation: <a href='#'>Video</a> | <a href='#'>Slides</a> | <a href='#'>Zoom/chat</a>
+    <br/>
+    Poster Session: <a href='#'>Poster</a> | <a href='#'>Zoom/chat</a>
     <br/>
     <br/>
-    <span style="font-weight:bold;">Generalized Autoencoder for Volumetric Shape Generation</span><br>
-    Yanran Guan, Tansin Jahan, Oliver van Kaick<br>
-    <a href="#">Paper</a> | <a href="#">Poster</a> | <a href="#">Spotlight (Video)</a> | <a href="#">Spotlight (Slides)</a>
+    <span style="font-weight:bold;"><a href='#'>Generalized Autoencoder for Volumetric Shape Generation</a></span><br>
+    <i>Yanran Guan, Tansin Jahan, Oliver van Kaick</i>
+    <br/>
+    Spotlight Presentation: <a href='#'>Video</a> | <a href='#'>Slides</a> | <a href='#'>Zoom/chat</a>
+    <br/>
+    Poster Session: <a href='#'>Poster</a> | <a href='#'>Zoom/chat</a>
   </div>
 </div>
 
@@ -235,24 +301,36 @@ acknowledgements: ""
   <div class="col-md-12">
     <h3>Poster Session 2 (2:10pm - 2:55pm)</h3>
     <br/>
-    <span style="font-weight:bold;">Topology-Aware Single-Image 3D Shape Reconstruction</span><br>
-    Qimin Chen, Vincent Nguyen, Feng Han, Raimondas Kiveris, Zhuowen Tu<br>
-    <a href="#">Paper</a> | <a href="#">Poster</a> | <a href="#">Spotlight (Video)</a> | <a href="#">Spotlight (Slides)</a>
+    <span style="font-weight:bold;"><a href='#'>Topology-Aware Single-Image 3D Shape Reconstruction</a></span><br>
+    <i>Qimin Chen, Vincent Nguyen, Feng Han, Raimondas Kiveris, Zhuowen Tu</i>
+    <br/>
+    Spotlight Presentation: <a href='#'>Video</a> | <a href='#'>Slides</a> | <a href='#'>Zoom/chat</a>
+    <br/>
+    Poster Session: <a href='#'>Poster</a> | <a href='#'>Zoom/chat</a>
     <br/>
     <br/>
-    <span style="font-weight:bold;">Geometry to the Rescue: 3D Instance Reconstruction from a Cluttered Scene</span><br>
-    Lin Li, Salman Khan, Nick Barnes<br>
-    <a href="#">Paper</a> | <a href="#">Poster</a> | <a href="#">Spotlight (Video)</a> | <a href="#">Spotlight (Slides)</a>
+    <span style="font-weight:bold;"><a href='#'>Geometry to the Rescue: 3D Instance Reconstruction from a Cluttered Scene</a></span><br>
+    <i>Lin Li, Salman Khan, Nick Barnes</i>
+    <br/>
+    Spotlight Presentation: <a href='#'>Video</a> | <a href='#'>Slides</a> | <a href='#'>Zoom/chat</a>
+    <br/>
+    Poster Session: <a href='#'>Poster</a> | <a href='#'>Zoom/chat</a>
     <br/>
     <br/>
-    <span style="font-weight:bold;">Mesh Variational Autoencoders with Edge Contraction Pooling</span><br>
-    Yu-Jie Yuan, Yu-Kun Lai, Jie Yang,  Qi Duan, Hongbo Fu, Lin Gao<br>
-    <a href="#">Paper</a> | <a href="#">Poster</a> | <a href="#">Spotlight (Video)</a> | <a href="#">Spotlight (Slides)</a>
+    <span style="font-weight:bold;"><a href='#'>Mesh Variational Autoencoders with Edge Contraction Pooling</a></span><br>
+    <i>Yu-Jie Yuan, Yu-Kun Lai, Jie Yang,  Qi Duan, Hongbo Fu, Lin Gao</i>
+    <br/>
+    Spotlight Presentation: <a href='#'>Video</a> | <a href='#'>Slides</a> | <a href='#'>Zoom/chat</a>
+    <br/>
+    Poster Session: <a href='#'>Poster</a> | <a href='#'>Zoom/chat</a>
     <br/>
     <br/>
-    <span style="font-weight:bold;">BSP-Net: Generating Compact Meshes via Binary Space Partitioning</span><br>
-    Zhiqin Chen, Andrea Tagliasacchi, Hao Zhang<br>
-    <a href="#">Paper</a> | <a href="#">Poster</a> | <a href="#">Spotlight (Video)</a> | <a href="#">Spotlight (Slides)</a>
+    <span style="font-weight:bold;"><a href='#'>BSP-Net: Generating Compact Meshes via Binary Space Partitioning</a></span><br>
+    <i>Zhiqin Chen, Andrea Tagliasacchi, Hao Zhang</i>
+    <br/>
+    Spotlight Presentation: <a href='#'>Video</a> | <a href='#'>Slides</a> | <a href='#'>Zoom/chat</a>
+    <br/>
+    Poster Session: <a href='#'>Poster</a> | <a href='#'>Zoom/chat</a>
   </div>
 </div>
 
@@ -357,16 +435,6 @@ acknowledgements: ""
 <div class="row">
 
   <div class="col-xs-2">
-    <a href="https://angelxuanchang.github.io/">
-      <img class="people-pic" src="{{ "/static/img/people/angel.png" | prepend:site.baseurl }}">
-    </a>
-    <div class="people-name">
-      <a href="https://angelxuanchang.github.io/">Angel X. Chang</a>
-      <h6>Simon Fraser University</h6>
-    </div>
-  </div>
-
-  <div class="col-xs-2">
     <a href="https://dritchie.github.io/">
       <img class="people-pic" src="{{ "/static/img/people/daniel.png" | prepend:site.baseurl }}">
     </a>
@@ -377,25 +445,34 @@ acknowledgements: ""
   </div>
 
   <div class="col-xs-2">
-    <a href="https://www.cs.utexas.edu/~huangqx/">
-      <img class="people-pic" src="{{ "/static/img/people/qixing.png" | prepend:site.baseurl }}">
+    <a href="https://fgolemo.github.io/">
+      <img class="people-pic" src="{{ "/static/img/people/florian.png" | prepend:site.baseurl }}">
     </a>
     <div class="people-name">
-      <a href="https://www.cs.utexas.edu/~huangqx/">Qixing Huang</a>
-      <h6>UT Austin</h6>
+      <a href="https://fgolemo.github.io/">Florian Golemo</a>
+      <h6>MILA, Element AI</h6>
     </div>
   </div>
 
   <div class="col-xs-2">
-    <a href="http://msavva.github.io/">
-      <img class="people-pic" src="{{ "/static/img/people/manolis.png" | prepend:site.baseurl }}">
+    <a href="https://angelxuanchang.github.io/">
+      <img class="people-pic" src="{{ "/static/img/people/angel.png" | prepend:site.baseurl }}">
     </a>
     <div class="people-name">
-      <a href="http://msavva.github.io/">Manolis Savva</a>
+      <a href="https://angelxuanchang.github.io/">Angel X. Chang</a>
       <h6>Simon Fraser University</h6>
     </div>
   </div>
 
+  <div class="col-xs-2">
+    <a href="https://www.cse.iitb.ac.in/~sidch/">
+      <img class="people-pic" src="{{ "/static/img/people/sid.png" | prepend:site.baseurl }}">
+    </a>
+    <div class="people-name">
+      <a href="https://www.cse.iitb.ac.in/~sidch/">Siddhartha Chaudhuri</a>
+      <h6>Adobe Research, IIT Bombay</h6>
+    </div>
+  </div>
 
   <div class="col-xs-2">
     <a href="https://mila.quebec/en/person/aaron-courville/">
@@ -407,6 +484,21 @@ acknowledgements: ""
     </div>
   </div>
 
+
+  <div class="col-xs-2">
+    <a href="https://www.cs.utexas.edu/~huangqx/">
+      <img class="people-pic" src="{{ "/static/img/people/qixing.png" | prepend:site.baseurl }}">
+    </a>
+    <div class="people-name">
+      <a href="https://www.cs.utexas.edu/~huangqx/">Qixing Huang</a>
+      <h6>UT Austin</h6>
+    </div>
+  </div>
+
+</div>
+
+<div class="row">
+
   <div class="col-xs-2">
     <a href="http://www.cim.mcgill.ca/~derek/">
       <img class="people-pic" src="{{ "/static/img/people/derek.jpg" | prepend:site.baseurl }}">
@@ -417,17 +509,13 @@ acknowledgements: ""
     </div>
   </div>
 
-</div>
-
-<div class="row">
-
   <div class="col-xs-2">
-    <a href="https://fgolemo.github.io/">
-      <img class="people-pic" src="{{ "/static/img/people/florian.png" | prepend:site.baseurl }}">
+    <a href="http://www.pedro.opinheiro.com/">
+      <img class="people-pic" src="{{ "/static/img/people/pedro.png" | prepend:site.baseurl }}">
     </a>
     <div class="people-name">
-      <a href="https://fgolemo.github.io/">Florian Golemo</a>
-      <h6>MILA, Element AI</h6>
+      <a href="http://www.pedro.opinheiro.com/">Pedro O. Pinheiro</a>
+      <h6>Element AI</h6>
     </div>
   </div>
 
@@ -442,33 +530,22 @@ acknowledgements: ""
   </div>
 
   <div class="col-xs-2">
+    <a href="http://msavva.github.io/">
+      <img class="people-pic" src="{{ "/static/img/people/manolis.png" | prepend:site.baseurl }}">
+    </a>
+    <div class="people-name">
+      <a href="http://msavva.github.io/">Manolis Savva</a>
+      <h6>Simon Fraser University</h6>
+    </div>
+  </div>
+
+  <div class="col-xs-2">
     <a href="http://www.david-vazquez.com/">
       <img class="people-pic" src="{{ "/static/img/people/david.jpeg" | prepend:site.baseurl }}">
     </a>
     <div class="people-name">
       <a href="http://www.david-vazquez.com/">David Vazquez</a>
       <h6>Element AI</h6>
-    </div>
-  </div>
-
-  <div class="col-xs-2">
-    <a href="http://www.pedro.opinheiro.com/">
-      <img class="people-pic" src="{{ "/static/img/people/pedro.png" | prepend:site.baseurl }}">
-    </a>
-    <div class="people-name">
-      <a href="http://www.pedro.opinheiro.com/">Pedro O. Pinheiro</a>
-      <h6>Element AI</h6>
-    </div>
-  </div>
-  
-  
-  <div class="col-xs-2">
-    <a href="https://www.cse.iitb.ac.in/~sidch/">
-      <img class="people-pic" src="{{ "/static/img/people/sid.png" | prepend:site.baseurl }}">
-    </a>
-    <div class="people-name">
-      <a href="https://www.cse.iitb.ac.in/~sidch/">Siddhartha Chaudhuri</a>
-      <h6>Adobe Research, IIT Bombay</h6>
     </div>
   </div>
 
