@@ -197,7 +197,7 @@ acknowledgements: ""
           <td><a href='http://cvpr20.com/event/invited-talk-4-w45/'>Zoom/chat</a></td>
         </tr>
         <tr>
-          <td>12:50pm - 1:00pm</td>
+          <td>12:00pm - 1:00pm</td>
           <td>Lunch Break</td>
           <td></td>
           <td></td>
