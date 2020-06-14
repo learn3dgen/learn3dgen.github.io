@@ -236,8 +236,12 @@ acknowledgements: ""
         </tr>
         <tr>
           <td>2:55pm - 3:20pm</td>
-          <td>Invited Talk 7 (Jiajun Wu)</td>
-          <td><a href='#'>Video</a></td>
+          <td>
+          Invited Talk 7 (Jiajun Wu)
+          <br/>
+          <i>Program Synthesis for 3D Scene Understanding and Manipulation</i>
+          </td>
+          <td><a href='https://www.youtube.com/watch?v=g7U7aarMHU0'>Video</a></td>
           <td><a href='http://cvpr20.com/event/invited-talk-7-w45/'>Zoom/chat</a></td>
         </tr>
         <tr>
