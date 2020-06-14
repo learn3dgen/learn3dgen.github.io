@@ -32,6 +32,8 @@ acknowledgements: ""
 
 <b>Submit questions for the closing panel discussion using <a href='https://docs.google.com/forms/d/e/1FAIpQLSfKCFsEOl-P-rZ2etEjMRH72uhGY1eILqnmblKCEi9-CyhnSw/viewform?usp=sf_link'>this Google form</a>.</b>
 
+<b>Please give us your feedback on how the workshop went using <a href='https://docs.google.com/forms/d/e/1FAIpQLSc3n4OeJGSgP0GlIzrqx11jj7YNsTvWm7s0DGMllBiB19Iedg/viewform?usp=sf_link'>this Google form</a>.</b>
+
 <br>
 <div class="row" id="intro">
   <div class="col-xs-12">
