@@ -138,19 +138,27 @@ acknowledgements: ""
           <td>Welcome and Introduction</td>
           <td></td>
           <!-- <td><a href='#'>Video</a></td> -->
-          <td><a href='#'>Zoom/chat</a></td>
+          <td><a href='http://cvpr20.com/event/welcome-introduction-w45/'>Zoom/chat</a></td>
         </tr>
         <tr>
           <td>9:00am - 9:25am</td>
-          <td>Invited Talk 1 (Daniel Aliaga)</td>
-          <td><a href='#'>Video</a></td>
-          <td><a href='#'>Zoom/chat</a></td>
+          <td>
+          Invited Talk 1 (Daniel Aliaga)
+          <br/>
+          <i>Urban Scene Generation</i>
+          </td>
+          <td><a href='https://www.youtube.com/watch?v=0WpAPrP8uXk'>Video</a></td>
+          <td><a href='http://cvpr20.com/event/invited-talk-1-w45/'>Zoom/chat</a></td>
         </tr>
         <tr>
           <td>9:25am - 9:50am</td>
-          <td>Invited Talk 2 (Evangelos Kalogerakis)</td>
-          <td><a href='#'>Video</a></td>
-          <td><a href='#'>Zoom/chat</a></td>
+          <td>
+          Invited Talk 2 (Evangelos Kalogerakis)
+          <br/>
+          <i>What Can Go Here?</i>
+          </td>
+          <td><a href='https://www.youtube.com/watch?v=lfd7Y1syMA4'>Video</a></td>
+          <td><a href='http://cvpr20.com/event/invited-talk-2-w45/'>Zoom/chat</a></td>
         </tr>
         <tr>
           <td>9:50am - 10:10am</td>
@@ -171,22 +179,22 @@ acknowledgements: ""
           <br/>
           <i>Beyond 2D Visual Recognition</i>
           </td>
-          <td><a href='#'>Video</a></td>
-          <td><a href='#'>Zoom/chat</a></td>
+          <td><a href='https://www.youtube.com/watch?v=GT3vbpSrFW8'>Video</a></td>
+          <td><a href='http://cvpr20.com/event/invited-talk-3-w45/'>Zoom/chat</a></td>
         </tr>
         <tr>
           <td>11:20am - 11:45am</td>
           <td>Invited Talk 4 (Jitendra Malik)</td>
           <!-- <td><a href='#'>Video</a></td> -->
           <td></td>
-          <td><a href='#'>Zoom/chat</a></td>
+          <td><a href='http://cvpr20.com/event/invited-talk-4-w45/'>Zoom/chat</a></td>
         </tr>
         <tr>
           <td>11:45am - 12:00pm</td>
           <td>Surprise Talk</td>
           <td></td>
           <!-- <td><a href='#'>Video</a></td> -->
-          <td><a href='#'>Zoom/chat</a></td>
+          <td><a href='http://cvpr20.com/event/invited-talk-4-w45/'>Zoom/chat</a></td>
         </tr>
         <tr>
           <td>12:50pm - 1:00pm</td>
@@ -202,7 +210,7 @@ acknowledgements: ""
           <i>Structuring Shapes and Shape Distributions</i>
           </td>
           <td><a href='#'>Video</a></td>
-          <td><a href='#'>Zoom/chat</a></td>
+          <td><a href='http://cvpr20.com/event/invited-talk-5-w45/'>Zoom/chat</a></td>
         </tr>
         <tr>
           <td>1:25pm - 1:50pm</td>
@@ -211,8 +219,8 @@ acknowledgements: ""
           <br/>
           <i>Neural Mesh Processing</i>
           </td>
-          <td><a href='#'>Video</a></td>
-          <td><a href='#'>Zoom/chat</a></td>
+          <td><a href='https://www.youtube.com/watch?v=vdN9JTndQ04'>Video</a></td>
+          <td><a href='http://cvpr20.com/event/invited-talk-6-w45/'>Zoom/chat</a></td>
         </tr>
         <tr>
           <td>1:50pm - 2:10pm</td>
@@ -230,20 +238,20 @@ acknowledgements: ""
           <td>2:55pm - 3:20pm</td>
           <td>Invited Talk 7 (Jiajun Wu)</td>
           <td><a href='#'>Video</a></td>
-          <td><a href='#'>Zoom/chat</a></td>
+          <td><a href='http://cvpr20.com/event/invited-talk-7-w45/'>Zoom/chat</a></td>
         </tr>
         <tr>
           <td>3:20pm - 3:45pm</td>
           <td>Invited Talk 8 (Sanja Fidler)</td>
           <td><a href='#'>Video</a></td>
-          <td><a href='#'>Zoom/chat</a></td>
+          <td><a href='http://cvpr20.com/event/invited-talk-8-w45/'>Zoom/chat</a></td>
         </tr>
         <tr>
           <td>3:45pm - 4:30pm</td>
-          <td>Panel Discussion and Conclusion</td>
+          <td>Panel Discussion</td>
           <td></td>
           <!-- <td><a href='#'>Video</a></td> -->
-          <td><a href='#'>Zoom/chat</a></td>
+          <td><a href='http://cvpr20.com/event/panel-discussion-w45/'>Zoom/chat</a></td>
         </tr>
       </tbody>
     </table>
@@ -262,36 +270,36 @@ acknowledgements: ""
   <div class="col-md-12">
     <h3>Poster Session 1 (10:10am - 10:55am)</h3>
     <br/>
-    <span style="font-weight:bold;"><a href='#'>VoronoiNet: General Functional Approximators with Local Support</a></span><br>
+    <span style="font-weight:bold;"><a href='https://drive.google.com/open?id=17ogMjO6xBE8UBa3Mszeea5jzqO2pLRpG'>VoronoiNet: General Functional Approximators with Local Support</a></span><br>
     <i>Francis Williams, Jérôme Parent-Lévesque, Derek Nowrouzezahrai, Daniele Panozzo,  Kwang Moo Yi, Andrea Tagliasacchi</i>
     <br/>
-    Spotlight Presentation: <a href='#'>Video</a> | <a href='#'>Slides</a> | <a href='#'>Zoom/chat</a>
+    Spotlight Presentation: <a href='https://www.youtube.com/watch?v=6fBpL_sXHoE'>Video</a> | <a href='https://drive.google.com/open?id=18vSGWiKRpNkucO9K7B2YmowbiAYmcIsR'>Slides</a> | <a href='http://cvpr20.com/event/voronoinet-general-functional-approximators-with-local-support/'>Zoom/chat</a>
     <br/>
-    Poster Session: <a href='#'>Poster</a> | <a href='#'>Zoom/chat</a>
+    Poster Session: <a href='https://drive.google.com/open?id=1p3NWvTzGpHVC44-cSeUqLPQhbXKPdlh0'>Poster</a> | <a href='http://cvpr20.com/event/voronoinet-general-functional-approximators-with-local-support-2/'>Zoom/chat</a>
     <br/>
     <br/>
-    <span style="font-weight:bold;"><a href='#'>Deep Octree-based CNNs with Output-Guided Skip Connections for 3D Shape and Scene Completion</a></span><br>
+    <span style="font-weight:bold;"><a href='https://drive.google.com/open?id=13a5EnRBaP4ElCfKimQf_3S9EVt1hHiKO'>Deep Octree-based CNNs with Output-Guided Skip Connections for 3D Shape and Scene Completion</a></span><br>
     <i>Peng-Shuai Wang, Yang Liu, Xin Tong</i>
     <br/>
-    Spotlight Presentation: <a href='#'>Video</a> | <a href='#'>Slides</a> | <a href='#'>Zoom/chat</a>
+    Spotlight Presentation: <a href='https://www.youtube.com/watch?v=DvKXjfKRNDs'>Video</a> | <a href='https://drive.google.com/open?id=1ouKgG4B6T7VXDq3ITGQJwaL46yhxLsO8'>Slides</a> | <a href='http://cvpr20.com/event/deep-octree-based-cnns-with-output-guided-skip-connections-for-3d-shape-and-scene-completion/'>Zoom/chat</a>
     <br/>
-    Poster Session: <a href='#'>Poster</a> | <a href='#'>Zoom/chat</a>
+    Poster Session: <a href='https://drive.google.com/open?id=1IQX75T2iymTyNifDhafrkZwQk8Sw_vxU'>Poster</a> | <a href='http://cvpr20.com/event/deep-octree-based-cnns-with-output-guided-skip-connections-for-3d-shape-and-scene-completion-2/'>Zoom/chat</a>
     <br/>
     <br/>
-    <span style="font-weight:bold;"><a href='#'>PQ-NET: A Generative Part Seq2Seq Network for 3D Shapes</a></span><br>
+    <span style="font-weight:bold;"><a href='https://drive.google.com/open?id=1xsAI_qIJ6nVFWXhgVvI1N2VHhOsA7Bfj'>PQ-NET: A Generative Part Seq2Seq Network for 3D Shapes</a></span><br>
     <i>Rundi Wu, Yixin Zhuang, Kai Xu, Hao Zhang, Baoquan Chen</i>
     <br/>
-    Spotlight Presentation: <a href='#'>Video</a> | <a href='#'>Slides</a> | <a href='#'>Zoom/chat</a>
+    Spotlight Presentation: <a href='https://www.youtube.com/watch?v=TYW0nDoLDFc'>Video</a> | <a href='https://drive.google.com/open?id=1L_oslAqgJYzFqsHmKIyeDWTqj3yYlBTG'>Slides</a> | <a href='http://cvpr20.com/event/pq-net-a-generative-part-seq2seq-network-for-3d-shapes-2/'>Zoom/chat</a>
     <br/>
-    Poster Session: <a href='#'>Poster</a> | <a href='#'>Zoom/chat</a>
+    Poster Session: <a href='https://drive.google.com/open?id=1QwOuu1gRk4-NhFNRhEQjiX-mwy56tssQ'>Poster</a> | <a href='http://cvpr20.com/event/pq-net-a-generative-part-seq2seq-network-for-3d-shapes-3/'>Zoom/chat</a>
     <br/>
     <br/>
-    <span style="font-weight:bold;"><a href='#'>Generalized Autoencoder for Volumetric Shape Generation</a></span><br>
+    <span style="font-weight:bold;"><a href='https://drive.google.com/open?id=1ljzE3-m_I69uf1RJ3YYytyBdBzhjQMfJ'>Generalized Autoencoder for Volumetric Shape Generation</a></span><br>
     <i>Yanran Guan, Tansin Jahan, Oliver van Kaick</i>
     <br/>
-    Spotlight Presentation: <a href='#'>Video</a> | <a href='#'>Slides</a> | <a href='#'>Zoom/chat</a>
+    Spotlight Presentation: <a href='https://www.youtube.com/watch?v=s2-6mkVrHPs'>Video</a> | <a href='http://cvpr20.com/event/generalized-autoencoder-for-volumetric-shape-generation/'>Zoom/chat</a>
     <br/>
-    Poster Session: <a href='#'>Poster</a> | <a href='#'>Zoom/chat</a>
+    Poster Session: <a href='https://drive.google.com/open?id=1OTMQaSUYFkAfcKVbFy4QOr9NLTQhr0uw'>Poster</a> | <a href='http://cvpr20.com/event/generalized-autoencoder-for-volumetric-shape-generation-2/'>Zoom/chat</a>
   </div>
 </div>
 
@@ -301,36 +309,36 @@ acknowledgements: ""
   <div class="col-md-12">
     <h3>Poster Session 2 (2:10pm - 2:55pm)</h3>
     <br/>
-    <span style="font-weight:bold;"><a href='#'>Topology-Aware Single-Image 3D Shape Reconstruction</a></span><br>
+    <span style="font-weight:bold;"><a href='https://drive.google.com/open?id=1nyd0_3UHSUNugGc55ISTzUwBcSgzk03z'>Topology-Aware Single-Image 3D Shape Reconstruction</a></span><br>
     <i>Qimin Chen, Vincent Nguyen, Feng Han, Raimondas Kiveris, Zhuowen Tu</i>
     <br/>
-    Spotlight Presentation: <a href='#'>Video</a> | <a href='#'>Slides</a> | <a href='#'>Zoom/chat</a>
+    Spotlight Presentation: <a href='https://www.youtube.com/watch?v=lLdlX8oWDUI'>Video</a> | <a href='http://cvpr20.com/event/topology-aware-single-image-3d-shape-reconstruction/'>Zoom/chat</a>
     <br/>
-    Poster Session: <a href='#'>Poster</a> | <a href='#'>Zoom/chat</a>
+    Poster Session: <a href='https://drive.google.com/open?id=15pXfqHKaS5LCgzWKSkL2329IwF-CmXCS'>Poster</a> | <a href='http://cvpr20.com/event/topology-aware-single-image-3d-shape-reconstruction-2/'>Zoom/chat</a>
     <br/>
     <br/>
-    <span style="font-weight:bold;"><a href='#'>Geometry to the Rescue: 3D Instance Reconstruction from a Cluttered Scene</a></span><br>
+    <span style="font-weight:bold;"><a href='https://drive.google.com/open?id=1rEbvz5zLG6NqDvGuO9x-NdCl0i62S5Fo'>Geometry to the Rescue: 3D Instance Reconstruction from a Cluttered Scene</a></span><br>
     <i>Lin Li, Salman Khan, Nick Barnes</i>
     <br/>
-    Spotlight Presentation: <a href='#'>Video</a> | <a href='#'>Slides</a> | <a href='#'>Zoom/chat</a>
+    Spotlight Presentation: <a href='https://www.youtube.com/watch?v=mxvCUapHZF4'>Video</a> |  <a href='http://cvpr20.com/event/geometry-to-the-rescue-3d-instance-reconstruction-from-a-cluttered-scene/'>Zoom/chat</a>
     <br/>
-    Poster Session: <a href='#'>Poster</a> | <a href='#'>Zoom/chat</a>
+    Poster Session: <a href='https://drive.google.com/open?id=1e78vCO8EsEcPrkg1bSCZbKsNxc3iQflX'>Poster</a> | <a href='http://cvpr20.com/event/geometry-to-the-rescue-3d-instance-reconstruction-from-a-cluttered-scene-2/'>Zoom/chat</a>
     <br/>
     <br/>
-    <span style="font-weight:bold;"><a href='#'>Mesh Variational Autoencoders with Edge Contraction Pooling</a></span><br>
+    <span style="font-weight:bold;"><a href='https://drive.google.com/open?id=1sPLHqJ9VToHOhKPbP-VPfNvjWp-nLj10'>Mesh Variational Autoencoders with Edge Contraction Pooling</a></span><br>
     <i>Yu-Jie Yuan, Yu-Kun Lai, Jie Yang,  Qi Duan, Hongbo Fu, Lin Gao</i>
     <br/>
-    Spotlight Presentation: <a href='#'>Video</a> | <a href='#'>Slides</a> | <a href='#'>Zoom/chat</a>
+    Spotlight Presentation: <a href='https://www.youtube.com/watch?v=2pvh38j80jo'>Video</a> | <a href='https://drive.google.com/open?id=1wyIu_-M7N5oRkefn8m3lbSiVDr7p6iPt'>Slides</a> | <a href='http://cvpr20.com/event/mesh-variational-autoencoders-with-edge-contraction-pooling/'>Zoom/chat</a>
     <br/>
-    Poster Session: <a href='#'>Poster</a> | <a href='#'>Zoom/chat</a>
+    Poster Session: <a href='https://drive.google.com/open?id=1S_gxxJDYVjmpaiRTwN917hESgwA9TLrt'>Poster</a> | <a href='http://cvpr20.com/event/mesh-variational-autoencoders-with-edge-contraction-pooling-2/'>Zoom/chat</a>
     <br/>
     <br/>
-    <span style="font-weight:bold;"><a href='#'>BSP-Net: Generating Compact Meshes via Binary Space Partitioning</a></span><br>
+    <span style="font-weight:bold;"><a href='https://drive.google.com/open?id=1kRsNlcAmgEKHmgFuRIJBj3mjBZl3-5RH'>BSP-Net: Generating Compact Meshes via Binary Space Partitioning</a></span><br>
     <i>Zhiqin Chen, Andrea Tagliasacchi, Hao Zhang</i>
     <br/>
-    Spotlight Presentation: <a href='#'>Video</a> | <a href='#'>Slides</a> | <a href='#'>Zoom/chat</a>
+    Spotlight Presentation: <a href='https://www.youtube.com/watch?v=hXH1vbWG5xg'>Video</a> | <a href='https://drive.google.com/open?id=1rMraafBCV41PM_K7NMo_Y06bCbtNJKLO'>Slides</a> | <a href='http://cvpr20.com/event/bsp-net-generating-compact-meshes-via-binary-space-partitioning-2/'>Zoom/chat</a>
     <br/>
-    Poster Session: <a href='#'>Poster</a> | <a href='#'>Zoom/chat</a>
+    Poster Session: <a href='https://drive.google.com/open?id=1q3Ov6ORXD5OLwVKQmuttjdWaCczN2LoO'>Poster</a> | <a href='http://cvpr20.com/event/bsp-net-generating-compact-meshes-via-binary-space-partitioning-3/'>Zoom/chat</a>
   </div>
 </div>
 
