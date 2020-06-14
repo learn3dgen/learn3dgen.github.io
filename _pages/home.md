@@ -30,7 +30,7 @@ acknowledgements: ""
   </div>
 </div> -->
 
-<!-- <b>UPDATE 2020-03-02: We decided to have our submitted and accepted papers included in the CVPR 2020 proceedings. This allows for authors to present novel work at our workshop and get a reputable publication on IEEE Xplore/CVF open access. Please note the changed submission date.</b> -->
+<b>Submit questions for the closing panel discussion using <a href='https://docs.google.com/forms/d/e/1FAIpQLSfKCFsEOl-P-rZ2etEjMRH72uhGY1eILqnmblKCEi9-CyhnSw/viewform?usp=sf_link'>this Google form</a>.</b>
 
 <br>
 <div class="row" id="intro">
@@ -186,13 +186,13 @@ acknowledgements: ""
           <td>11:20am - 11:45am</td>
           <td>Invited Talk 4 (Jitendra Malik)</td>
           <!-- <td><a href='#'>Video</a></td> -->
-          <td></td>
+          <td>(Live Talk)</td>
           <td><a href='http://cvpr20.com/event/invited-talk-4-w45/'>Zoom/chat</a></td>
         </tr>
         <tr>
           <td>11:45am - 12:00pm</td>
           <td>Surprise Talk</td>
-          <td></td>
+          <td>(Live Talk)</td>
           <!-- <td><a href='#'>Video</a></td> -->
           <td><a href='http://cvpr20.com/event/invited-talk-4-w45/'>Zoom/chat</a></td>
         </tr>
@@ -242,13 +242,21 @@ acknowledgements: ""
         </tr>
         <tr>
           <td>3:20pm - 3:45pm</td>
-          <td>Invited Talk 8 (Sanja Fidler)</td>
-          <td><a href='#'>Video</a></td>
+          <td>
+          Invited Talk 8 (Sanja Fidler)
+          <br/>
+          <i>A.I. for Robotics Simulation</i>
+          </td>
+          <td><a href='https://www.youtube.com/watch?v=W4VdbXonb-k'>Video</a></td>
           <td><a href='http://cvpr20.com/event/invited-talk-8-w45/'>Zoom/chat</a></td>
         </tr>
         <tr>
           <td>3:45pm - 4:30pm</td>
-          <td>Panel Discussion</td>
+          <td>
+          Panel Discussion
+          <br/>
+          <a href='https://docs.google.com/forms/d/e/1FAIpQLSfKCFsEOl-P-rZ2etEjMRH72uhGY1eILqnmblKCEi9-CyhnSw/viewform?usp=sf_link'>Submit questions</a>
+          </td>
           <td></td>
           <!-- <td><a href='#'>Video</a></td> -->
           <td><a href='http://cvpr20.com/event/panel-discussion-w45/'>Zoom/chat</a></td>
