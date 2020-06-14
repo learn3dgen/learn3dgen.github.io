@@ -209,7 +209,7 @@ acknowledgements: ""
           <br/>
           <i>Structuring Shapes and Shape Distributions</i>
           </td>
-          <td><a href='#'>Video</a></td>
+          <td><a href='https://www.youtube.com/watch?v=Er2sA-lfsI8'>Video</a></td>
           <td><a href='http://cvpr20.com/event/invited-talk-5-w45/'>Zoom/chat</a></td>
         </tr>
         <tr>
