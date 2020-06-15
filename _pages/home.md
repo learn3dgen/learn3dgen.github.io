@@ -30,7 +30,7 @@ acknowledgements: ""
   </div>
 </div> -->
 
-<b>Submit questions for the closing panel discussion using <a href='https://docs.google.com/forms/d/e/1FAIpQLSfKCFsEOl-P-rZ2etEjMRH72uhGY1eILqnmblKCEi9-CyhnSw/viewform?usp=sf_link'>this Google form</a>.</b>
+<!-- <b>Submit questions for the closing panel discussion using <a href='https://docs.google.com/forms/d/e/1FAIpQLSfKCFsEOl-P-rZ2etEjMRH72uhGY1eILqnmblKCEi9-CyhnSw/viewform?usp=sf_link'>this Google form</a>.</b> -->
 
 <b>Please give us your feedback on how the workshop went using <a href='https://docs.google.com/forms/d/e/1FAIpQLSc3n4OeJGSgP0GlIzrqx11jj7YNsTvWm7s0DGMllBiB19Iedg/viewform?usp=sf_link'>this Google form</a>.</b>
 
@@ -187,15 +187,13 @@ acknowledgements: ""
         <tr>
           <td>11:20am - 11:45am</td>
           <td>Invited Talk 4 (Jitendra Malik)</td>
-          <!-- <td><a href='#'>Video</a></td> -->
-          <td>(Live Talk)</td>
+          <td><a href='https://www.youtube.com/watch?v=TY6AUYSEyCk'>Video</a></td>
           <td><a href='http://cvpr20.com/event/invited-talk-4-w45/'>Zoom/chat</a></td>
         </tr>
         <tr>
           <td>11:45am - 12:00pm</td>
-          <td>Surprise Talk</td>
-          <td>(Live Talk)</td>
-          <!-- <td><a href='#'>Video</a></td> -->
+          <td>3D-FRONT Dataset Announcement</td>
+          <td><a href='https://www.youtube.com/watch?v=1DNLCcALEE0'>Video</a></td>
           <td><a href='http://cvpr20.com/event/invited-talk-4-w45/'>Zoom/chat</a></td>
         </tr>
         <tr>
@@ -260,11 +258,10 @@ acknowledgements: ""
           <td>3:45pm - 4:30pm</td>
           <td>
           Panel Discussion
-          <br/>
-          <a href='https://docs.google.com/forms/d/e/1FAIpQLSfKCFsEOl-P-rZ2etEjMRH72uhGY1eILqnmblKCEi9-CyhnSw/viewform?usp=sf_link'>Submit questions</a>
+          <!-- <br/>
+          <a href='https://docs.google.com/forms/d/e/1FAIpQLSfKCFsEOl-P-rZ2etEjMRH72uhGY1eILqnmblKCEi9-CyhnSw/viewform?usp=sf_link'>Submit questions</a> -->
           </td>
-          <td></td>
-          <!-- <td><a href='#'>Video</a></td> -->
+          <td><a href='https://www.youtube.com/watch?v=kXJ9KWzA52I'>Video</a></td>
           <td><a href='http://cvpr20.com/event/panel-discussion-w45/'>Zoom/chat</a></td>
         </tr>
       </tbody>
@@ -305,7 +302,7 @@ acknowledgements: ""
     <br/>
     Spotlight Presentation: <a href='https://www.youtube.com/watch?v=TYW0nDoLDFc'>Video</a> | <a href='https://drive.google.com/open?id=1L_oslAqgJYzFqsHmKIyeDWTqj3yYlBTG'>Slides</a> | <a href='http://cvpr20.com/event/pq-net-a-generative-part-seq2seq-network-for-3d-shapes-2/'>Zoom/chat</a>
     <br/>
-    Poster Session: <a href='https://drive.google.com/open?id=1QwOuu1gRk4-NhFNRhEQjiX-mwy56tssQ'>Poster</a> | <a href='http://cvpr20.com/event/pq-net-a-generative-part-seq2seq-network-for-3d-shapes-3/'>Zoom/chat</a>
+    Poster Session: <a href='https://drive.google.com/open?id=125bfvxNBlDEpHF3bANMXa59bsdmU9sl2'>Poster</a> | <a href='http://cvpr20.com/event/pq-net-a-generative-part-seq2seq-network-for-3d-shapes-3/'>Zoom/chat</a>
     <br/>
     <br/>
     <span style="font-weight:bold;"><a href='https://drive.google.com/open?id=1ljzE3-m_I69uf1RJ3YYytyBdBzhjQMfJ'>Generalized Autoencoder for Volumetric Shape Generation</a></span><br>
