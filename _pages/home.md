@@ -192,7 +192,11 @@ acknowledgements: ""
         </tr>
         <tr>
           <td>11:45am - 12:00pm</td>
-          <td>3D-FRONT Dataset Announcement</td>
+          <td>
+          3D-FRONT Dataset Announcement
+          <br/>
+          <a href='https://pages.tmall.com/wow/cab/tianchi/promotion/alibaba-3d-scene-dataset'>Dataset website</a>
+          </td>
           <td><a href='https://www.youtube.com/watch?v=1DNLCcALEE0'>Video</a></td>
           <td><a href='http://cvpr20.com/event/invited-talk-4-w45/'>Zoom/chat</a></td>
         </tr>
